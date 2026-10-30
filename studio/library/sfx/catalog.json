@@ -1,0 +1,453 @@
+{
+ "big_step-3a4b1795.mp3": {
+  "name": "big_step",
+  "prompt": "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+  "seconds": 0.7,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "bike_crash-8fb3ee54.mp3": {
+  "name": "bike_crash",
+  "prompt": "a soft gold bicycle frame bending under a kid with a metal creak, then a cartoon crash onto pavement",
+  "seconds": 1.5,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 15,
+  "added": "2026-10-30"
+ },
+ "bulb_pop-2ea0e2d7.mp3": {
+  "name": "bulb_pop",
+  "prompt": "a small light bulb popping out, a tiny glass tink and fizz",
+  "seconds": 0.5,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "buzzer-0dc58156.mp3": {
+  "name": "buzzer",
+  "prompt": "a game show wrong answer buzzer, short",
+  "seconds": 0.8,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "car_arrive-b36b20c2.mp3": {
+  "name": "car_arrive",
+  "prompt": "a car pulling up slowly on a quiet street at night, engine idling then switching off",
+  "seconds": 3,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 30,
+  "added": "2026-10-30"
+ },
+ "car_crunch-5140c194.mp3": {
+  "name": "car_crunch",
+  "prompt": "a car turning into solid gold and sinking into mud, deep metallic crunch and a heavy squelch",
+  "seconds": 2,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 20,
+  "added": "2026-10-30"
+ },
+ "cars_pass-d095e399.mp3": {
+  "name": "cars_pass",
+  "prompt": "cars driving slowly past a house at night, tyres on asphalt, engines fading away",
+  "seconds": 3,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 30,
+  "added": "2026-10-30"
+ },
+ "cat_chirp-bb7d4731.mp3": {
+  "name": "cat_chirp",
+  "prompt": "a cat making a short curious chirp meow",
+  "seconds": 0.6,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "cat_yowl-7cf1658d.mp3": {
+  "name": "cat_yowl",
+  "prompt": "an angry cat yowl and hiss, short and startled",
+  "seconds": 0.9,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "catch-ffb439cd.mp3": {
+  "name": "catch",
+  "prompt": "a hand catching a ceramic mug mid-air, soft slap and thud",
+  "seconds": 0.5,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "class_murmur-9d579e51.mp3": {
+  "name": "class_murmur",
+  "prompt": "a quiet classroom murmur, kids whispering, chairs shuffling",
+  "seconds": 2,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "clink-169430e3.mp3": {
+  "name": "clink",
+  "prompt": "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+  "seconds": 0.7,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "clock_back-d5e3cec1.mp3": {
+  "name": "clock_back",
+  "prompt": "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+  "seconds": 1.6,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "clock_flip-64a8d5e7.mp3": {
+  "name": "clock_flip",
+  "prompt": "a digital alarm clock flipping to midnight, a tiny electronic click and a soft beep, short",
+  "seconds": 0.6,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 6,
+  "added": "2026-10-30"
+ },
+ "coffee_stir-e530f32f.mp3": {
+  "name": "coffee_stir",
+  "prompt": "a metal spoon stirring coffee in a ceramic mug, gentle clinking",
+  "seconds": 1,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 10,
+  "added": "2026-10-30"
+ },
+ "cookie_crunch-265c6a17.mp3": {
+  "name": "cookie_crunch",
+  "prompt": "one crunchy bite into a chocolate chip cookie, close up",
+  "seconds": 0.6,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "copy_click-6f20900a.mp3": {
+  "name": "copy_click",
+  "prompt": "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+  "seconds": 0.5,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "counter_tick-37ca9370.mp3": {
+  "name": "counter_tick",
+  "prompt": "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+  "seconds": 1.6,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "crack-3cbd3c57.mp3": {
+  "name": "crack",
+  "prompt": "glass cracking sharply, the crack spreading across a pane",
+  "seconds": 1.1,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "ding-a322cf81.mp3": {
+  "name": "ding",
+  "prompt": "a correct answer ding, bright bell chime",
+  "seconds": 0.8,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "dizzy-46ba6f40.mp3": {
+  "name": "dizzy",
+  "prompt": "cartoon dizzy birds tweeting in a circle after a bonk",
+  "seconds": 1.4,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "door_creak-6f54a199.mp3": {
+  "name": "door_creak",
+  "prompt": "a bedroom door slowly creaking open at night, old wooden hinge",
+  "seconds": 1.5,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 15,
+  "added": "2026-10-30"
+ },
+ "door_knock-4fbae0a2.mp3": {
+  "name": "door_knock",
+  "prompt": "three firm polite knocks on a wooden front door",
+  "seconds": 1,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 10,
+  "added": "2026-10-30"
+ },
+ "drone_hit-75f05067.mp3": {
+  "name": "drone_hit",
+  "prompt": "a dark ominous low drone hit, deep cinematic horror sting",
+  "seconds": 2.6,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "fall_whoosh-07978690.mp3": {
+  "name": "fall_whoosh",
+  "prompt": "a small object falling fast through the air, short soft whoosh",
+  "seconds": 0.6,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "fingertip_glow-e756649d.mp3": {
+  "name": "fingertip_glow",
+  "prompt": "a soft warm magical glow humming to life around fingertips, gentle rising shimmer, short",
+  "seconds": 1.5,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 15,
+  "added": "2026-10-30"
+ },
+ "gasp-372b408b.mp3": {
+  "name": "gasp",
+  "prompt": "two young people gasping in surprise at the same moment, cartoon, short",
+  "seconds": 0.8,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "glitch-4bc7163d.mp3": {
+  "name": "glitch",
+  "prompt": "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+  "seconds": 1.5,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "gold_chime_deep-b891b7d6.mp3": {
+  "name": "gold_chime_deep",
+  "prompt": "a deep slow magical chime as gold spreads over a hand, low resonant bell with a heavy metallic shimmer, warm and ominous",
+  "seconds": 2.5,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 25,
+  "added": "2026-10-30"
+ },
+ "gold_chime-54460029.mp3": {
+  "name": "gold_chime",
+  "prompt": "a soft magical chime as a small object turns into solid gold, warm bell shimmer with a faint metallic ring, short",
+  "seconds": 1.5,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 15,
+  "added": "2026-10-30"
+ },
+ "gold_clank-6b5284ef.mp3": {
+  "name": "gold_clank",
+  "prompt": "a heavy solid gold glove dropping onto a wooden floor, dull metallic clank, short",
+  "seconds": 1,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 10,
+  "added": "2026-10-30"
+ },
+ "gold_thud-99cdc5de.mp3": {
+  "name": "gold_thud",
+  "prompt": "a very heavy solid gold pillow thudding on a mattress, dull heavy metallic thump, short",
+  "seconds": 0.8,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 8,
+  "added": "2026-10-30"
+ },
+ "gulp-c9154a14.mp3": {
+  "name": "gulp",
+  "prompt": "a nervous cartoon gulp, short",
+  "seconds": 0.5,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "kid_giggle-edae0339.mp3": {
+  "name": "kid_giggle",
+  "prompt": "a little girl giggling happily, short",
+  "seconds": 1.2,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 12,
+  "added": "2026-10-30"
+ },
+ "land-c5089052.mp3": {
+  "name": "land",
+  "prompt": "a heavy body landing flat on a wooden floor, cartoon thud",
+  "seconds": 0.6,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "laugh-7d80a59f.mp3": {
+  "name": "laugh",
+  "prompt": "a small classroom of kids bursting out laughing",
+  "seconds": 1.6,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "music-4cdabe20.mp3": {
+  "name": "music",
+  "prompt": "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+  "seconds": 17,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "news_sting-c4a92e44.mp3": {
+  "name": "news_sting",
+  "prompt": "a short TV news intro sting, urgent synth hit and drums, no voices",
+  "seconds": 2,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 20,
+  "added": "2026-10-30"
+ },
+ "night_ambience-a7bcdfed.mp3": {
+  "name": "night_ambience",
+  "prompt": "quiet suburban night outside a house, soft crickets, faint distant traffic, no voices",
+  "seconds": 10,
+  "loop": true,
+  "episode": "one-touch-gold",
+  "credits": 100,
+  "added": "2026-10-30"
+ },
+ "paper_land-e0d75d32.mp3": {
+  "name": "paper_land",
+  "prompt": "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+  "seconds": 0.7,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "paste_pop-0efc15e9.mp3": {
+  "name": "paste_pop",
+  "prompt": "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+  "seconds": 0.7,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "pop-99ba70e6.mp3": {
+  "name": "pop",
+  "prompt": "a cartoon speech bubble pop, short and bright",
+  "seconds": 0.5,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "power_down-46ef6bed.mp3": {
+  "name": "power_down",
+  "prompt": "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+  "seconds": 2.5,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "power_hum-ae629acb.mp3": {
+  "name": "power_hum",
+  "prompt": "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+  "seconds": 3,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "price_drop-10c98522.mp3": {
+  "name": "price_drop",
+  "prompt": "a cartoon descending slide whistle, short",
+  "seconds": 1.5,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 15,
+  "added": "2026-10-30"
+ },
+ "rewind_start-bbf777d9.mp3": {
+  "name": "rewind_start",
+  "prompt": "a quick reverse swoosh, like a sound being sucked backwards",
+  "seconds": 0.7,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "rewind-d66d6ba6.mp3": {
+  "name": "rewind",
+  "prompt": "a VHS tape rewinding fast, high whirring tape squeal with mechanical hum",
+  "seconds": 1.6,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "roof_wind-cedc7edc.mp3": {
+  "name": "roof_wind",
+  "prompt": "a gentle evening breeze on a city rooftop, distant traffic",
+  "seconds": 7,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "room_tone-e711a45f.mp3": {
+  "name": "room_tone",
+  "prompt": "quiet indoor room tone in the evening, faint distant city hum, no voices",
+  "seconds": 12.5,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "select_draw-234903d8.mp3": {
+  "name": "select_draw",
+  "prompt": "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+  "seconds": 0.6,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "shades-cdedb72d.mp3": {
+  "name": "shades",
+  "prompt": "cool sunglasses sliding on with a swoosh and a bright metallic glint",
+  "seconds": 0.9,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "shatter-cde6184c.mp3": {
+  "name": "shatter",
+  "prompt": "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+  "seconds": 1.3,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "slowmo_whoosh-88df3ef6.mp3": {
+  "name": "slowmo_whoosh",
+  "prompt": "a deep slow-motion whoosh, time slowing down, low warped rumble",
+  "seconds": 1.5,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 15,
+  "added": "2026-10-30"
+ },
+ "sparkle-595dbfb7.mp3": {
+  "name": "sparkle",
+  "prompt": "a short bright magical sparkle twinkle, cartoon",
+  "seconds": 0.8,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "step-60144e17.mp3": {
+  "name": "step",
+  "prompt": "a single sneaker footstep on a wooden stair, close",
+  "seconds": 0.5,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "switch_off-9588c15a.mp3": {
+  "name": "switch_off",
+  "prompt": "a heavy electrical breaker switching off with a dull clunk",
+  "seconds": 0.5,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "title_boom-91f4f23e.mp3": {
+  "name": "title_boom",
+  "prompt": "a cinematic whoosh rising into a deep boom impact",
+  "seconds": 1.6,
+  "loop": false,
+  "episode": "copy-paste"
+ },
+ "tumble-d03ef997.mp3": {
+  "name": "tumble",
+  "prompt": "a cartoon character tumbling down wooden stairs, a quick series of bumps and thuds",
+  "seconds": 1.3,
+  "loop": false,
+  "episode": "rewind"
+ },
+ "vault_door-a78b33df.mp3": {
+  "name": "vault_door",
+  "prompt": "a massive steel bank vault door slowly closing, heavy mechanical clunk and lock",
+  "seconds": 2,
+  "loop": false,
+  "episode": "one-touch-gold",
+  "credits": 20,
+  "added": "2026-10-30"
+ }
+}

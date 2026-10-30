@@ -9,6 +9,7 @@ Animated "What If…?" videos for a new English-language YouTube channel. The ow
 - Every script is delivered in English and in Portuguese.
 - Before spending ElevenLabs credits (voice or sound effects), state how many credits the call will use and wait for an explicit yes. Report the real usage afterwards.
 - Talk to the owner in Portuguese.
+- **Sound effects are a library, kept for reuse to save credits.** Before proposing any new clip, search the library (`npm run sfx -- --library <words>`; `--dry` also suggests look-alikes for each clip still to generate) and reuse what fits. Every clip ever generated stays in `studio/library/sfx/` and in its `catalog.json` (file, prompt, length, episode, credits), committed to Git; never delete or overwrite a library clip, add a new name instead.
 
 ## Look
 
@@ -48,3 +49,4 @@ All characters and stories must be original: never a channel's own hero, never a
 
 - `.claude/skills/what-if-animation/`: the What If animation skill (MIT, FreshStack). Its pipeline makes 15–25 s episodes; the 6–12 min format needs it run per scene or adapted.
 - `studio/`: the skill's Remotion studio (run `npm install` inside it first).
+- `studio/library/sfx/`: every sound clip of every episode, listed in `catalog.json` (`npm run sfx -- --library [words]` searches it; `--rebuild-catalog` rebuilds it from the episodes' clip lists).
