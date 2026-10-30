@@ -1,0 +1,37 @@
+[
+ {
+  "date": "2026-10-30T21:54:12.082Z",
+  "clips": [
+   "gold_chime"
+  ],
+  "seconds": 1.5,
+  "credits": 15,
+  "note": "read from the usage stats afterwards"
+ },
+ {
+  "date": "2026-10-30T21:55:41.983Z",
+  "clips": [
+   "clock_flip",
+   "fingertip_glow",
+   "gold_chime_deep",
+   "door_creak",
+   "gold_thud",
+   "gold_clank",
+   "coffee_stir",
+   "bike_crash",
+   "kid_giggle",
+   "car_crunch",
+   "news_sting",
+   "vault_door",
+   "price_drop",
+   "car_arrive",
+   "door_knock",
+   "cars_pass",
+   "slowmo_whoosh",
+   "night_ambience"
+  ],
+  "seconds": 37.6,
+  "credits": 376,
+  "note": "276 read at the end of the run, 376 once the usage stats caught up"
+ }
+]

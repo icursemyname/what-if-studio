@@ -1,0 +1,470 @@
+{
+ "1": {
+  "speaker": "NARRATOR",
+  "sig": "809c40a570ba",
+  "chars": 114,
+  "credits": 46
+ },
+ "2": {
+  "speaker": "NARRATOR",
+  "sig": "bb99193cedc9",
+  "chars": 12,
+  "credits": 5
+ },
+ "3": {
+  "speaker": "NARRATOR",
+  "sig": "aeb0651d755a",
+  "chars": 57,
+  "credits": 23
+ },
+ "4": {
+  "speaker": "NINA",
+  "sig": "35eb5956a86b",
+  "chars": 29,
+  "credits": 12
+ },
+ "5": {
+  "speaker": "NARRATOR",
+  "sig": "34924cf2ab4c",
+  "chars": 112,
+  "credits": 45
+ },
+ "6": {
+  "speaker": "NARRATOR",
+  "sig": "c90735391dd5",
+  "chars": 64,
+  "credits": 26
+ },
+ "7": {
+  "speaker": "NARRATOR",
+  "sig": "3c0a4c08bb04",
+  "chars": 74,
+  "credits": 30
+ },
+ "8": {
+  "speaker": "NARRATOR",
+  "sig": "5a73433d4196",
+  "chars": 97,
+  "credits": 39
+ },
+ "9": {
+  "speaker": "NARRATOR",
+  "sig": "9ab3acf5bf9e",
+  "chars": 76,
+  "credits": 30
+ },
+ "10": {
+  "speaker": "NARRATOR",
+  "sig": "0b7dd0c3a7c4",
+  "chars": 17,
+  "credits": 7
+ },
+ "11": {
+  "speaker": "NARRATOR",
+  "sig": "18819991f522",
+  "chars": 28,
+  "credits": 11
+ },
+ "12": {
+  "speaker": "NARRATOR",
+  "sig": "164e8de3c9e6",
+  "chars": 42,
+  "credits": 17
+ },
+ "13": {
+  "speaker": "NARRATOR",
+  "sig": "6b3c659dbc3c",
+  "chars": 61,
+  "credits": 24
+ },
+ "14": {
+  "speaker": "NARRATOR",
+  "sig": "8f61d2071153",
+  "chars": 66,
+  "credits": 26
+ },
+ "15": {
+  "speaker": "NARRATOR",
+  "sig": "ec069ea3732f",
+  "chars": 84,
+  "credits": 34
+ },
+ "16": {
+  "speaker": "NARRATOR",
+  "sig": "88b1fd6945a8",
+  "chars": 24,
+  "credits": 10
+ },
+ "17": {
+  "speaker": "NARRATOR",
+  "sig": "e0cdbdbb5014",
+  "chars": 203,
+  "credits": 81
+ },
+ "18": {
+  "speaker": "NARRATOR",
+  "sig": "4445db38710a",
+  "chars": 22,
+  "credits": 9
+ },
+ "19": {
+  "speaker": "NARRATOR",
+  "sig": "e66af0537da3",
+  "chars": 44,
+  "credits": 18
+ },
+ "20": {
+  "speaker": "THEO",
+  "sig": "048833f7c3e7",
+  "chars": 38,
+  "credits": 15
+ },
+ "21": {
+  "speaker": "NARRATOR",
+  "sig": "23f5378d9a61",
+  "chars": 13,
+  "credits": 5
+ },
+ "22": {
+  "speaker": "THEO",
+  "sig": "07d90d65ad77",
+  "chars": 20,
+  "credits": 8
+ },
+ "23": {
+  "speaker": "NARRATOR",
+  "sig": "f5b6b6cea88b",
+  "chars": 135,
+  "credits": 54
+ },
+ "24": {
+  "speaker": "THEO",
+  "sig": "a5958df985e8",
+  "chars": 23,
+  "credits": 9
+ },
+ "25": {
+  "speaker": "NARRATOR",
+  "sig": "b6cab5d2862f",
+  "chars": 93,
+  "credits": 37
+ },
+ "26": {
+  "speaker": "NARRATOR",
+  "sig": "7df17e37d188",
+  "chars": 122,
+  "credits": 49
+ },
+ "27": {
+  "speaker": "NARRATOR",
+  "sig": "57aac332d40d",
+  "chars": 28,
+  "credits": 11
+ },
+ "28": {
+  "speaker": "NINA",
+  "sig": "537117df706b",
+  "chars": 15,
+  "credits": 6
+ },
+ "29": {
+  "speaker": "NARRATOR",
+  "sig": "841bf02941a8",
+  "chars": 127,
+  "credits": 51
+ },
+ "30": {
+  "speaker": "NINA",
+  "sig": "3147c80f0465",
+  "chars": 10,
+  "credits": 4
+ },
+ "31": {
+  "speaker": "NARRATOR",
+  "sig": "9f6429e36a31",
+  "chars": 10,
+  "credits": 4
+ },
+ "32": {
+  "speaker": "NARRATOR",
+  "sig": "5d6f63126d7e",
+  "chars": 82,
+  "credits": 33
+ },
+ "33": {
+  "speaker": "NARRATOR",
+  "sig": "f730efc9bbbf",
+  "chars": 195,
+  "credits": 78
+ },
+ "34": {
+  "speaker": "NARRATOR",
+  "sig": "074616e821a2",
+  "chars": 203,
+  "credits": 81
+ },
+ "35": {
+  "speaker": "NARRATOR",
+  "sig": "d0be517eea7b",
+  "chars": 286,
+  "credits": 114
+ },
+ "36": {
+  "speaker": "NARRATOR",
+  "sig": "fd7a2eed2612",
+  "chars": 12,
+  "credits": 5
+ },
+ "37": {
+  "speaker": "NARRATOR",
+  "sig": "56b7bed406ae",
+  "chars": 46,
+  "credits": 18
+ },
+ "38": {
+  "speaker": "NARRATOR",
+  "sig": "6cf1bb2e2de4",
+  "chars": 67,
+  "credits": 27
+ },
+ "39": {
+  "speaker": "NARRATOR",
+  "sig": "e8423bfc33a4",
+  "chars": 87,
+  "credits": 35
+ },
+ "40": {
+  "speaker": "NARRATOR",
+  "sig": "916c92561fa9",
+  "chars": 32,
+  "credits": 13
+ },
+ "41": {
+  "speaker": "NEWS ANCHOR",
+  "sig": "9da72f860363",
+  "chars": 40,
+  "credits": 16
+ },
+ "42": {
+  "speaker": "NARRATOR",
+  "sig": "a816bc180cf7",
+  "chars": 71,
+  "credits": 28
+ },
+ "43": {
+  "speaker": "NARRATOR",
+  "sig": "f5863d964beb",
+  "chars": 228,
+  "credits": 91
+ },
+ "44": {
+  "speaker": "NARRATOR",
+  "sig": "5301d60fc959",
+  "chars": 77,
+  "credits": 31
+ },
+ "45": {
+  "speaker": "NARRATOR",
+  "sig": "7f21b7d51ef7",
+  "chars": 28,
+  "credits": 11
+ },
+ "46": {
+  "speaker": "THEO",
+  "sig": "cc6939009b4d",
+  "chars": 108,
+  "credits": 43
+ },
+ "47": {
+  "speaker": "NARRATOR",
+  "sig": "c99e64a51f8d",
+  "chars": 51,
+  "credits": 20
+ },
+ "48": {
+  "speaker": "NARRATOR",
+  "sig": "e33ffd6730fa",
+  "chars": 160,
+  "credits": 64
+ },
+ "49": {
+  "speaker": "NARRATOR",
+  "sig": "19fb864f4ba4",
+  "chars": 69,
+  "credits": 28
+ },
+ "50": {
+  "speaker": "NARRATOR",
+  "sig": "94f89838e64c",
+  "chars": 34,
+  "credits": 14
+ },
+ "51": {
+  "speaker": "SUIT",
+  "sig": "964daa1782a0",
+  "chars": 185,
+  "credits": 74
+ },
+ "52": {
+  "speaker": "MOM",
+  "sig": "9438eb5eea2e",
+  "chars": 18,
+  "credits": 7
+ },
+ "53": {
+  "speaker": "SUIT",
+  "sig": "2dab16487604",
+  "chars": 53,
+  "credits": 21
+ },
+ "54": {
+  "speaker": "NARRATOR",
+  "sig": "e1ac40a99277",
+  "chars": 95,
+  "credits": 38
+ },
+ "55": {
+  "speaker": "SUIT",
+  "sig": "778d9fe62bd9",
+  "chars": 54,
+  "credits": 22
+ },
+ "56": {
+  "speaker": "NARRATOR",
+  "sig": "82f20bfe9385",
+  "chars": 22,
+  "credits": 9
+ },
+ "57": {
+  "speaker": "NARRATOR",
+  "sig": "4f6406cca464",
+  "chars": 82,
+  "credits": 33
+ },
+ "58": {
+  "speaker": "NARRATOR",
+  "sig": "3cd1b82e2129",
+  "chars": 180,
+  "credits": 72
+ },
+ "59": {
+  "speaker": "NARRATOR",
+  "sig": "d9c6d246c09b",
+  "chars": 30,
+  "credits": 12
+ },
+ "60": {
+  "speaker": "NARRATOR",
+  "sig": "62570b849eaa",
+  "chars": 22,
+  "credits": 9
+ },
+ "61": {
+  "speaker": "NARRATOR",
+  "sig": "7f6f84be87cb",
+  "chars": 36,
+  "credits": 14
+ },
+ "62": {
+  "speaker": "NINA",
+  "sig": "5dc4347807d0",
+  "chars": 9,
+  "credits": 4
+ },
+ "63": {
+  "speaker": "NARRATOR",
+  "sig": "a49ef4c1c534",
+  "chars": 71,
+  "credits": 28
+ },
+ "64": {
+  "speaker": "NARRATOR",
+  "sig": "109c84008fa1",
+  "chars": 12,
+  "credits": 5
+ },
+ "65": {
+  "speaker": "NARRATOR",
+  "sig": "ac29417df7c2",
+  "chars": 198,
+  "credits": 79
+ },
+ "66": {
+  "speaker": "NARRATOR",
+  "sig": "b363188ed637",
+  "chars": 4,
+  "credits": 2
+ },
+ "67": {
+  "speaker": "NARRATOR",
+  "sig": "24be2e104cff",
+  "chars": 53,
+  "credits": 21
+ },
+ "68": {
+  "speaker": "NARRATOR",
+  "sig": "bd0f0d2017b6",
+  "chars": 66,
+  "credits": 26
+ },
+ "69": {
+  "speaker": "NARRATOR",
+  "sig": "580ea9b41674",
+  "chars": 101,
+  "credits": 40
+ },
+ "70": {
+  "speaker": "NARRATOR",
+  "sig": "da105bb519a5",
+  "chars": 78,
+  "credits": 31
+ },
+ "71": {
+  "speaker": "SUIT",
+  "sig": "c0abd991c5de",
+  "chars": 19,
+  "credits": 8
+ },
+ "72": {
+  "speaker": "NARRATOR",
+  "sig": "e78d7a0b37cf",
+  "chars": 46,
+  "credits": 18
+ },
+ "73": {
+  "speaker": "NARRATOR",
+  "sig": "b025b7eaa2b0",
+  "chars": 101,
+  "credits": 40
+ },
+ "74": {
+  "speaker": "NARRATOR",
+  "sig": "5baa18570897",
+  "chars": 107,
+  "credits": 43
+ },
+ "75": {
+  "speaker": "NARRATOR",
+  "sig": "ae9f1c30a8df",
+  "chars": 12,
+  "credits": 5
+ },
+ "76": {
+  "speaker": "NARRATOR",
+  "sig": "d8ff05faf368",
+  "chars": 66,
+  "credits": 26
+ },
+ "77": {
+  "speaker": "NARRATOR",
+  "sig": "f763a67f2276",
+  "chars": 55,
+  "credits": 22
+ },
+ "78": {
+  "speaker": "NARRATOR",
+  "sig": "141e2f92cea1",
+  "chars": 59,
+  "credits": 24
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "text": "You.",
+ "alignment": {
+  "characters": [
+   "Y",
+   "o",
+   "u",
+   "."
+  ],
+  "characterStartTimesSeconds": [
+   0,
+   0.128,
+   0.197,
+   0.29
+  ],
+  "characterEndTimesSeconds": [
+   0.128,
+   0.197,
+   0.29,
+   1.207
+  ]
+ }
+}
