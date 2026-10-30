@@ -30,7 +30,7 @@ All characters and stories must be original: never a channel's own hero, never a
 - Title: "What If You Could Turn ONE Thing Into Gold Every Day?" / "E se você pudesse transformar UMA coisa em ouro por dia?"
 - Script (EN): `episodes/one-touch-gold/roteiro-en.md`. The PT version and the sourced science table are in the Claude Doc linked at the top of that file.
 - Storyboard: 33 key frames in `episodes/one-touch-gold/storyboard/` (open `index.html`), drawn with `tools/storyboard-kit/` (`python3 shots.py [S07 …]` re-renders frames, `build_page.py` rebuilds the page; output paths inside the scripts point to the old workspace and need adjusting).
-- **Next step: the voice.** About 7,500 spoken characters in English: ~7,500 credits on Multilingual v2 (the skill's default) or ~3,750 on Flash v2.5, plus 10–20% for retakes. Recommended: a narrator plus separate voices for Nina, Theo, Mom, the suit and the news anchor (same total cost). Confirm model, voices and credits with the owner first.
+- **Next step: the voice.** About 7,500 spoken characters in English. **Model chosen by the owner: Flash v2.5 (`eleven_flash_v2_5`)**, about 3,750 credits plus 10–20% for retakes (the skill's `voice.py` defaults to Multilingual v2: set `"voice": {"model": "eleven_flash_v2_5"}` in the episode's `episode.json`). Still to decide: one narrator for everything, or a narrator plus separate voices for Nina, Theo, Mom, the suit and the news anchor (same total cost; recommended). Show the credit estimate and get the owner's yes before every call.
 
 ## ElevenLabs access
 
