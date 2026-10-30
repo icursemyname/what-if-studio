@@ -34,7 +34,9 @@ All characters and stories must be original: never a channel's own hero, never a
   - Cast: narrator Harrison Gale, Nina Jessica, Theo Will, Mom Bella, suit Eric, news anchor Daniel (all on the account). Jessica is a young adult voice; if Nina doesn't sound 7, look for a child voice in the Voice Library and re-run `--speaker NINA`.
   - Real cost: 2,229 credits (narrator 1,980, suit 125, Theo 75, Nina 26, anchor 16, Mom 7), a steady 0.40 credits a character on this account. Use 0.40 to quote retakes.
   - The owner approved as many voices and sound effects as make the video richer, on condition that every call is announced with its credit cost first and gets a yes.
-- **Next step: sound.** Reuse `studio/library/sfx/` first (chimes, pops, cracks, steps, room tone, wind). New short clips run about 5–6 credits a second; long ambiences are the expensive part.
+- **Sound effects: clips done (2026-10-30).** The plan is `episodes/one-touch-gold/sound.json`: 35 events, each tied to the voice line it follows (`after`), using 11 library clips and 19 new ones (39.1 s, now in `studio/library/sfx/`). `gold_chime` is the power's signature (every touch), `gold_chime_deep` the climax, `fingertip_glow` every midnight. Made with `npm run sfx -- one-touch-gold` (`tools/sound/sfx.mjs`: `--dry`, `--clips a,b`, `--all`, nothing sent without `--yes`; files named like the skill's `sfx.py`, so later episodes reuse them for free).
+  - Real cost: 391 credits, a steady **10 credits a second** on this account. Sound clips are not in the generation history and the subscription counter lags; the usage stats (`/v1/usage/character-stats`, "Sound Effects") are exact once they settle, a minute or two after the run.
+  - Still to do: placing each event on its frame and levelling it against the voice (needs the animation, and the skill's `sfx.py` needs Python and ffmpeg), and a music bed if wanted.
 
 ## ElevenLabs access
 

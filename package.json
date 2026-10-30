@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "voices": "node --env-file=.env.local tools/voice/voices.mjs"
+    "voices": "node --env-file=.env.local tools/voice/voices.mjs",
+    "sfx": "node --env-file=.env.local tools/sound/sfx.mjs"
   },
   "dependencies": {
     "@elevenlabs/elevenlabs-js": "^2.75.0"

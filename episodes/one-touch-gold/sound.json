@@ -1,0 +1,275 @@
+{
+ "note": "Clips are generated once into studio/library/sfx/<name>-<hash>.mp3 (same naming as the skill's sfx.py, so later episodes reuse them). 'after' is the voice line (audio/voice/NNN) the sound plays after or under (0 = before the first line); the mix places it on the picture later.",
+ "prompt_influence": 0.45,
+ "clips": {
+  "clock_flip": [
+   "a digital alarm clock flipping to midnight, a tiny electronic click and a soft beep, short",
+   0.6
+  ],
+  "fingertip_glow": [
+   "a soft warm magical glow humming to life around fingertips, gentle rising shimmer, short",
+   1.5
+  ],
+  "gold_chime": [
+   "a soft magical chime as a small object turns into solid gold, warm bell shimmer with a faint metallic ring, short",
+   1.5
+  ],
+  "gold_chime_deep": [
+   "a deep slow magical chime as gold spreads over a hand, low resonant bell with a heavy metallic shimmer, warm and ominous",
+   2.5
+  ],
+  "door_creak": [
+   "a bedroom door slowly creaking open at night, old wooden hinge",
+   1.5
+  ],
+  "gold_thud": [
+   "a very heavy solid gold pillow thudding on a mattress, dull heavy metallic thump, short",
+   0.8
+  ],
+  "gold_clank": [
+   "a heavy solid gold glove dropping onto a wooden floor, dull metallic clank, short",
+   1
+  ],
+  "coffee_stir": [
+   "a metal spoon stirring coffee in a ceramic mug, gentle clinking",
+   1
+  ],
+  "bike_crash": [
+   "a soft gold bicycle frame bending under a kid with a metal creak, then a cartoon crash onto pavement",
+   1.5
+  ],
+  "kid_giggle": [
+   "a little girl giggling happily, short",
+   1.2
+  ],
+  "car_crunch": [
+   "a car turning into solid gold and sinking into mud, deep metallic crunch and a heavy squelch",
+   2
+  ],
+  "news_sting": [
+   "a short TV news intro sting, urgent synth hit and drums, no voices",
+   2
+  ],
+  "vault_door": [
+   "a massive steel bank vault door slowly closing, heavy mechanical clunk and lock",
+   2
+  ],
+  "price_drop": [
+   "a cartoon descending slide whistle, short",
+   1.5
+  ],
+  "car_arrive": [
+   "a car pulling up slowly on a quiet street at night, engine idling then switching off",
+   3
+  ],
+  "door_knock": [
+   "three firm polite knocks on a wooden front door",
+   1
+  ],
+  "cars_pass": [
+   "cars driving slowly past a house at night, tyres on asphalt, engines fading away",
+   3
+  ],
+  "slowmo_whoosh": [
+   "a deep slow-motion whoosh, time slowing down, low warped rumble",
+   1.5
+  ],
+  "night_ambience": [
+   "quiet suburban night outside a house, soft crickets, faint distant traffic, no voices",
+   10,
+   {
+    "loop": true
+   }
+  ]
+ },
+ "library": {
+  "title_boom": "title_boom-91f4f23e.mp3",
+  "drone_hit": "drone_hit-75f05067.mp3",
+  "room_tone": "room_tone-e711a45f.mp3",
+  "step": "step-60144e17.mp3",
+  "paper_land": "paper_land-e0d75d32.mp3",
+  "land": "land-c5089052.mp3",
+  "fall_whoosh": "fall_whoosh-07978690.mp3",
+  "sparkle": "sparkle-595dbfb7.mp3",
+  "gasp": "gasp-372b408b.mp3",
+  "gulp": "gulp-c9154a14.mp3",
+  "cookie_crunch": "cookie_crunch-265c6a17.mp3"
+ },
+ "events": [
+  {
+   "after": 0,
+   "clip": "night_ambience",
+   "what": "bedroom at night, under the cold open"
+  },
+  {
+   "after": 0,
+   "clip": "clock_flip",
+   "what": "11:59 -> 12:00"
+  },
+  {
+   "after": 0,
+   "clip": "fingertip_glow",
+   "what": "fingertips glow (the power's sound, every night)"
+  },
+  {
+   "after": 2,
+   "clip": "gold_chime",
+   "what": "paperclip turns gold (the power's signature, every touch)"
+  },
+  {
+   "after": 3,
+   "clip": "door_creak",
+   "what": "Nina opens the door"
+  },
+  {
+   "after": 6,
+   "clip": "title_boom",
+   "what": "title card"
+  },
+  {
+   "after": 9,
+   "clip": "gold_thud",
+   "what": "the gold pillow"
+  },
+  {
+   "after": 11,
+   "clip": "gold_clank",
+   "what": "gold glove hits the floor"
+  },
+  {
+   "after": 15,
+   "clip": "coffee_stir",
+   "what": "Mom stirs coffee with the gold spoon"
+  },
+  {
+   "after": 16,
+   "clip": "bike_crash",
+   "what": "the gold bike folds"
+  },
+  {
+   "after": 17,
+   "clip": "cookie_crunch",
+   "what": "biting a coin (pirates)"
+  },
+  {
+   "after": 21,
+   "clip": "gold_chime",
+   "what": "Theo's phone turns gold"
+  },
+  {
+   "after": 26,
+   "clip": "room_tone",
+   "what": "Mom asleep on the couch"
+  },
+  {
+   "after": 30,
+   "clip": "kid_giggle",
+   "what": "'Gold poop.'"
+  },
+  {
+   "after": 33,
+   "clip": "drone_hit",
+   "what": "the 22 m cube next to a building"
+  },
+  {
+   "after": 35,
+   "clip": "sparkle",
+   "what": "29 trillionths of a gram"
+  },
+  {
+   "after": 38,
+   "clip": "car_crunch",
+   "what": "the gold car sinks into the mud"
+  },
+  {
+   "after": 40,
+   "clip": "news_sting",
+   "what": "the news report"
+  },
+  {
+   "after": 42,
+   "clip": "price_drop",
+   "what": "the price of gold starts to fall"
+  },
+  {
+   "after": 48,
+   "clip": "vault_door",
+   "what": "montage: vault door"
+  },
+  {
+   "after": 48,
+   "clip": "price_drop",
+   "what": "montage: price chart sliding down"
+  },
+  {
+   "after": 48,
+   "clip": "car_arrive",
+   "what": "a grey car parks across the street"
+  },
+  {
+   "after": 50,
+   "clip": "door_knock",
+   "what": "day 27, the knock"
+  },
+  {
+   "after": 53,
+   "clip": "paper_land",
+   "what": "the folder on the table"
+  },
+  {
+   "after": 56,
+   "clip": "cars_pass",
+   "what": "grey cars outside, headlights sweep"
+  },
+  {
+   "after": 59,
+   "clip": "step",
+   "what": "footsteps on the porch"
+  },
+  {
+   "after": 60,
+   "clip": "door_creak",
+   "what": "the door opens"
+  },
+  {
+   "after": 60,
+   "clip": "fingertip_glow",
+   "what": "12:00, fingertips glow"
+  },
+  {
+   "after": 64,
+   "clip": "slowmo_whoosh",
+   "what": "two seconds, slow motion"
+  },
+  {
+   "after": 67,
+   "clip": "gold_chime_deep",
+   "what": "gold spreads across the hand"
+  },
+  {
+   "after": 67,
+   "clip": "land",
+   "what": "Nina crashes into you"
+  },
+  {
+   "after": 68,
+   "clip": "kid_giggle",
+   "what": "she's laughing"
+  },
+  {
+   "after": 71,
+   "clip": "cars_pass",
+   "what": "the grey cars leave"
+  },
+  {
+   "after": 77,
+   "clip": "news_sting",
+   "what": "final shot: a TV news report"
+  },
+  {
+   "after": 77,
+   "clip": "fingertip_glow",
+   "what": "another kid's fingertips glow"
+  }
+ ]
+}
