@@ -15,6 +15,7 @@ import { createHash } from 'node:crypto';
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { ElevenLabsClient } from '@elevenlabs/elevenlabs-js';
+import { parseScript } from './script.mjs';
 
 const args = process.argv.slice(2);
 const slug = args.find((a) => !a.startsWith('--') && !/^[\d,-]+$/.test(a) && a !== argValue('--speaker'));
@@ -29,20 +30,6 @@ function argValue(flag) {
   return i >= 0 ? args[i + 1] : undefined;
 }
 
-function parseScript(md) {
-  const out = [];
-  let started = false;
-  for (const raw of md.split(/\r?\n/)) {
-    const line = raw.trim();
-    if (line.startsWith('## ')) started = true;
-    if (!started || !line || line.startsWith('#') || /^\*\[.*\]\*$/.test(line)) continue;
-    const m = line.match(/^\*\*([A-Z][A-Z .]*):\*\*\s*(.*)$/);
-    const speaker = m ? m[1].trim() : 'NARRATOR';
-    const text = (m ? m[2] : line).replace(/\*\[[^\]]*\]\*|\*\([^)]*\)\*/g, '').replace(/\s+/g, ' ').trim();
-    if (text) out.push({ n: out.length + 1, speaker, text });
-  }
-  return out;
-}
 
 // Same speaker's neighbouring lines, so the takes join without tone jumps (ElevenLabs request stitching).
 function neighbours(line) {

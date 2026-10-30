@@ -1,0 +1,9 @@
+{
+  "note": "Animatic plan: each storyboard frame (storyboard/Sxx.jpg) starts on this voice line (audio/voice/NNN) and holds until the next one starts.",
+  "shots": {
+    "S01": 1, "S02": 2, "S03": 3, "S04": 4, "S05": 5, "S06": 6, "S07": 9, "S08": 11, "S09": 14, "S10": 15, "S11": 16,
+    "S12": 19, "S13": 25, "S14": 27, "S15": 32, "S16": 34, "S17": 35, "S18": 38, "S19": 40, "S20": 43, "S21": 45,
+    "S22": 49, "S23": 50, "S24": 54, "S25": 56, "S26": 59, "S27": 61, "S28": 63, "S29": 67, "S30": 68, "S31": 73,
+    "S32": 76, "S33": 77
+  }
+}

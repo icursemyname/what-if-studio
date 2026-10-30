@@ -1,0 +1,1116 @@
+{
+ "slug": "one-touch-gold",
+ "fps": 30,
+ "lines": [
+  {
+   "n": 1,
+   "speaker": "NARRATOR",
+   "text": "At exactly midnight, your fingertips start to glow. Not a lot. Just enough to light up the paperclip on your desk.",
+   "take": "001_NARRATOR.mp3",
+   "from": 1.6,
+   "dur": 9.292000000000002
+  },
+  {
+   "n": 2,
+   "speaker": "NARRATOR",
+   "text": "You poke it.",
+   "take": "002_NARRATOR.mp3",
+   "from": 11.242,
+   "dur": 1.2570000000000001
+  },
+  {
+   "n": 3,
+   "speaker": "NARRATOR",
+   "text": "It doesn't look like gold. It IS gold. Heavy. Cold. Real.",
+   "take": "003_NARRATOR.mp3",
+   "from": 14.319,
+   "dur": 5.994
+  },
+  {
+   "n": 4,
+   "speaker": "NINA",
+   "text": "…Why is your paperclip shiny?",
+   "take": "004_NINA.mp3",
+   "from": 22.133000000000003,
+   "dur": 1.954
+  },
+  {
+   "n": 5,
+   "speaker": "NARRATOR",
+   "text": "You look at your hand. The glow is gone. One touch. That's all you get. But tomorrow at midnight, it comes back.",
+   "take": "005_NARRATOR.mp3",
+   "from": 24.437,
+   "dur": 10.685
+  },
+  {
+   "n": 6,
+   "speaker": "NARRATOR",
+   "text": "So… what if you could turn one thing into gold every single day?",
+   "take": "006_NARRATOR.mp3",
+   "from": 35.472,
+   "dur": 6.366
+  },
+  {
+   "n": 7,
+   "speaker": "NARRATOR",
+   "text": "It takes you a week to figure out the rules. Mostly by getting them wrong.",
+   "take": "007_NARRATOR.mp3",
+   "from": 43.758,
+   "dur": 6.505
+  },
+  {
+   "n": 8,
+   "speaker": "NARRATOR",
+   "text": "Rule one: it's the first thing you touch after midnight. Not the thing you want. The first thing.",
+   "take": "008_NARRATOR.mp3",
+   "from": 50.613,
+   "dur": 8.131
+  },
+  {
+   "n": 9,
+   "speaker": "NARRATOR",
+   "text": "Night two, you fall asleep waiting. You wake up hugging a solid gold pillow.",
+   "take": "009_NARRATOR.mp3",
+   "from": 59.094,
+   "dur": 4.833
+  },
+  {
+   "n": 10,
+   "speaker": "NARRATOR",
+   "text": "Worst. Nap. Ever.",
+   "take": "010_NARRATOR.mp3",
+   "from": 65.047,
+   "dur": 4.09
+  },
+  {
+   "n": 11,
+   "speaker": "NARRATOR",
+   "text": "Rule two: gloves don't help.",
+   "take": "011_NARRATOR.mp3",
+   "from": 69.487,
+   "dur": 2.883
+  },
+  {
+   "n": 12,
+   "speaker": "NARRATOR",
+   "text": "They just turn into very expensive gloves.",
+   "take": "012_NARRATOR.mp3",
+   "from": 73.69,
+   "dur": 4.322
+  },
+  {
+   "n": 13,
+   "speaker": "NARRATOR",
+   "text": "Rule three: it's forever. You can't turn anything back. Ever.",
+   "take": "013_NARRATOR.mp3",
+   "from": 78.362,
+   "dur": 6.877
+  },
+  {
+   "n": 14,
+   "speaker": "NARRATOR",
+   "text": "So every night at 11:59, you sit very, very still… and you choose.",
+   "take": "014_NARRATOR.mp3",
+   "from": 85.589,
+   "dur": 7.109
+  },
+  {
+   "n": 15,
+   "speaker": "NARRATOR",
+   "text": "Day three: a spoon. Your mom stirs her coffee with it for a week before she notices.",
+   "take": "015_NARRATOR.mp3",
+   "from": 94.098,
+   "dur": 7.851999999999999
+  },
+  {
+   "n": 16,
+   "speaker": "NARRATOR",
+   "text": "Day four: your old bike.",
+   "take": "016_NARRATOR.mp3",
+   "from": 103.27,
+   "dur": 2.651
+  },
+  {
+   "n": 17,
+   "speaker": "NARRATOR",
+   "text": "Here's what nobody tells you about gold. It's heavy — about two and a half times heavier than steel. And it's soft. So soft you can dent it with your teeth. That's why pirates in movies bite their coins.",
+   "take": "017_NARRATOR.mp3",
+   "from": 107.741,
+   "dur": 14.679
+  },
+  {
+   "n": 18,
+   "speaker": "NARRATOR",
+   "text": "Gold bike: zero stars.",
+   "take": "018_NARRATOR.mp3",
+   "from": 123.34,
+   "dur": 2.883
+  },
+  {
+   "n": 19,
+   "speaker": "NARRATOR",
+   "text": "Day five, your best friend Theo has an idea.",
+   "take": "019_NARRATOR.mp3",
+   "from": 126.57300000000001,
+   "dur": 3.812
+  },
+  {
+   "n": 20,
+   "speaker": "THEO",
+   "text": "Touch my phone. A golden phone. Do it.",
+   "take": "020_THEO.mp3",
+   "from": 130.735,
+   "dur": 2.883
+  },
+  {
+   "n": 21,
+   "speaker": "NARRATOR",
+   "text": "You touch it.",
+   "take": "021_NARRATOR.mp3",
+   "from": 133.96800000000002,
+   "dur": 1.443
+  },
+  {
+   "n": 22,
+   "speaker": "THEO",
+   "text": "…Where's the screen?",
+   "take": "022_THEO.mp3",
+   "from": 137.23100000000002,
+   "dur": 1.2570000000000001
+  },
+  {
+   "n": 23,
+   "speaker": "NARRATOR",
+   "text": "Everything turns to gold. The glass, the battery, the chips. Your touch doesn't make a gold phone. It makes a phone-shaped paperweight.",
+   "take": "023_NARRATOR.mp3",
+   "from": 138.83800000000002,
+   "dur": 10.406
+  },
+  {
+   "n": 24,
+   "speaker": "THEO",
+   "text": "My mom's gonna kill me.",
+   "take": "024_THEO.mp3",
+   "from": 149.59400000000002,
+   "dur": 1.35
+  },
+  {
+   "n": 25,
+   "speaker": "NARRATOR",
+   "text": "Then you get smart. A shop downtown buys gold by weight. No questions. Well… a few questions.",
+   "take": "025_NARRATOR.mp3",
+   "from": 151.294,
+   "dur": 9.338000000000001
+  },
+  {
+   "n": 26,
+   "speaker": "NARRATOR",
+   "text": "Day eight, the rent is paid. Day ten, the hospital bill from last winter: gone. Day twelve, your mom quits the late shift.",
+   "take": "026_NARRATOR.mp3",
+   "from": 160.982,
+   "dur": 10.499
+  },
+  {
+   "n": 27,
+   "speaker": "NARRATOR",
+   "text": "And Nina asks for one thing.",
+   "take": "027_NARRATOR.mp3",
+   "from": 171.831,
+   "dur": 3.161
+  },
+  {
+   "n": 28,
+   "speaker": "NINA",
+   "text": "Can I eat gold?",
+   "take": "028_NINA.mp3",
+   "from": 175.34199999999998,
+   "dur": 1.35
+  },
+  {
+   "n": 29,
+   "speaker": "NARRATOR",
+   "text": "Technically… yes. Chefs put thin gold leaf on fancy cakes. It's safe. It does absolutely nothing. It goes in… and it comes out.",
+   "take": "029_NARRATOR.mp3",
+   "from": 177.04199999999997,
+   "dur": 12.217
+  },
+  {
+   "n": 30,
+   "speaker": "NINA",
+   "text": "Gold poop.",
+   "take": "030_NINA.mp3",
+   "from": 189.60899999999998,
+   "dur": 0.7000000000000001
+  },
+  {
+   "n": 31,
+   "speaker": "NARRATOR",
+   "text": "Gold poop.",
+   "take": "031_NARRATOR.mp3",
+   "from": 191.82899999999998,
+   "dur": 2.047
+  },
+  {
+   "n": 32,
+   "speaker": "NARRATOR",
+   "text": "But why is gold worth so much in the first place? Because there's so little of it.",
+   "take": "032_NARRATOR.mp3",
+   "from": 195.27599999999998,
+   "dur": 5.994
+  },
+  {
+   "n": 33,
+   "speaker": "NARRATOR",
+   "text": "Take all the gold humans have ever dug up. Every coin, every ring, every bar in every bank vault. Melt it together, and it makes a cube about twenty-two meters on each side. That's it. All of it.",
+   "take": "033_NARRATOR.mp3",
+   "from": 201.61999999999998,
+   "dur": 15.375
+  },
+  {
+   "n": 34,
+   "speaker": "NARRATOR",
+   "text": "And nobody on Earth knows how to make more. Much of the gold in the universe was forged when two dead stars — neutron stars — smashed into each other. The gold in your mom's ring is older than the Earth.",
+   "take": "034_NARRATOR.mp3",
+   "from": 219.81499999999997,
+   "dur": 14.725000000000001
+  },
+  {
+   "n": 35,
+   "speaker": "NARRATOR",
+   "text": "For thousands of years, people tried to make it anyway. They called it alchemy. And just once, we did it. Inside the Large Hadron Collider, physicists fired lead atoms past each other for years… and made gold. About 29 trillionths of a gram. It lasted less than a millionth of a second.",
+   "take": "035_NARRATOR.mp3",
+   "from": 234.88999999999996,
+   "dur": 23.456
+  },
+  {
+   "n": 36,
+   "speaker": "NARRATOR",
+   "text": "That's real.",
+   "take": "036_NARRATOR.mp3",
+   "from": 259.46599999999995,
+   "dur": 1.583
+  },
+  {
+   "n": 37,
+   "speaker": "NARRATOR",
+   "text": "You make more gold than that before breakfast.",
+   "take": "037_NARRATOR.mp3",
+   "from": 261.39899999999994,
+   "dur": 2.929
+  },
+  {
+   "n": 38,
+   "speaker": "NARRATOR",
+   "text": "Day fourteen, you get greedy. You touch an old car in the junkyard.",
+   "take": "038_NARRATOR.mp3",
+   "from": 265.72799999999995,
+   "dur": 5.019
+  },
+  {
+   "n": 39,
+   "speaker": "NARRATOR",
+   "text": "A gold car weighs as much as a small truck. And it's worth more than your whole street.",
+   "take": "039_NARRATOR.mp3",
+   "from": 273.06699999999995,
+   "dur": 6.226999999999999
+  },
+  {
+   "n": 40,
+   "speaker": "NARRATOR",
+   "text": "The next week, it's on the news.",
+   "take": "040_NARRATOR.mp3",
+   "from": 279.64399999999995,
+   "dur": 2.6969999999999996
+  },
+  {
+   "n": 41,
+   "speaker": "NEWS ANCHOR",
+   "text": "…mysterious gold flooding local markets…",
+   "take": "041_NEWS_ANCHOR.mp3",
+   "from": 284.66099999999994,
+   "dur": 2.929
+  },
+  {
+   "n": 42,
+   "speaker": "NARRATOR",
+   "text": "And something weird starts happening. The price of gold starts to fall.",
+   "take": "042_NARRATOR.mp3",
+   "from": 287.93999999999994,
+   "dur": 5.1579999999999995
+  },
+  {
+   "n": 43,
+   "speaker": "NARRATOR",
+   "text": "This has happened before. In 1324, Mansa Musa, the king of Mali and one of the richest people who ever lived, passed through Cairo on his way to Mecca. Historians say he gave away so much gold that it lost value there for years.",
+   "take": "043_NARRATOR.mp3",
+   "from": 294.91799999999995,
+   "dur": 18.115000000000002
+  },
+  {
+   "n": 44,
+   "speaker": "NARRATOR",
+   "text": "Gold is only worth a lot because there isn't much of it. And now there's you.",
+   "take": "044_NARRATOR.mp3",
+   "from": 313.3829999999999,
+   "dur": 5.762
+  },
+  {
+   "n": 45,
+   "speaker": "NARRATOR",
+   "text": "Theo comes over. He's quiet.",
+   "take": "045_NARRATOR.mp3",
+   "from": 319.49499999999995,
+   "dur": 2.976
+  },
+  {
+   "n": 46,
+   "speaker": "THEO",
+   "text": "My grandma saved gold her whole life. Rings, a necklace. For emergencies. The shop says it's worth less now.",
+   "take": "046_THEO.mp3",
+   "from": 322.82099999999997,
+   "dur": 7.7589999999999995
+  },
+  {
+   "n": 47,
+   "speaker": "NARRATOR",
+   "text": "He doesn't say it's your fault. He doesn't have to.",
+   "take": "047_NARRATOR.mp3",
+   "from": 330.92999999999995,
+   "dur": 3.812
+  },
+  {
+   "n": 48,
+   "speaker": "NARRATOR",
+   "text": "Every bit of gold you make makes everyone else's gold worth a little less. Grandmas. Families. Whole countries keep gold in their vaults to protect their money.",
+   "take": "048_NARRATOR.mp3",
+   "from": 335.0919999999999,
+   "dur": 12.031
+  },
+  {
+   "n": 49,
+   "speaker": "NARRATOR",
+   "text": "Day twenty-six. A grey car parks across the street. It doesn't leave.",
+   "take": "049_NARRATOR.mp3",
+   "from": 351.9429999999999,
+   "dur": 6.505
+  },
+  {
+   "n": 50,
+   "speaker": "NARRATOR",
+   "text": "Day twenty-seven, there's a knock.",
+   "take": "050_NARRATOR.mp3",
+   "from": 358.79799999999994,
+   "dur": 3.161
+  },
+  {
+   "n": 51,
+   "speaker": "SUIT",
+   "text": "We know what you can do. Here's how this goes. One touch a day — for us. We decide what you touch. We decide where the gold goes. In return, your family never worries about money again.",
+   "take": "051_SUIT.mp3",
+   "from": 363.27899999999994,
+   "dur": 12.217
+  },
+  {
+   "n": 52,
+   "speaker": "MOM",
+   "text": "And if he says no?",
+   "take": "052_MOM.mp3",
+   "from": 375.84599999999995,
+   "dur": 1.397
+  },
+  {
+   "n": 53,
+   "speaker": "SUIT",
+   "text": "Then someone else will find him. Someone less polite.",
+   "take": "053_SUIT.mp3",
+   "from": 377.59299999999996,
+   "dur": 3.5789999999999997
+  },
+  {
+   "n": 54,
+   "speaker": "NARRATOR",
+   "text": "He leaves the folder on the table. Inside: a photo of your house. And a photo of Nina's school.",
+   "take": "054_NARRATOR.mp3",
+   "from": 382.19199999999995,
+   "dur": 7.295
+  },
+  {
+   "n": 55,
+   "speaker": "SUIT",
+   "text": "We'll pick you up on day thirty. Just before midnight.",
+   "take": "055_SUIT.mp3",
+   "from": 389.83699999999993,
+   "dur": 3.3939999999999997
+  },
+  {
+   "n": 56,
+   "speaker": "NARRATOR",
+   "text": "Day thirty. 11:50 p.m.",
+   "take": "056_NARRATOR.mp3",
+   "from": 394.6309999999999,
+   "dur": 4.648
+  },
+  {
+   "n": 57,
+   "speaker": "NARRATOR",
+   "text": "Mom is pacing. Theo snuck in through the back door. Nina is supposed to be asleep.",
+   "take": "057_NARRATOR.mp3",
+   "from": 402.09899999999993,
+   "dur": 6.0409999999999995
+  },
+  {
+   "n": 58,
+   "speaker": "NARRATOR",
+   "text": "You've thought about everything. Running. Hiding. Saying yes. But every road ends the same way: midnight comes, your fingers glow, and someone else decides what you touch. Forever.",
+   "take": "058_NARRATOR.mp3",
+   "from": 408.48999999999995,
+   "dur": 15.700000000000001
+  },
+  {
+   "n": 59,
+   "speaker": "NARRATOR",
+   "text": "11:58. Footsteps on the porch.",
+   "take": "059_NARRATOR.mp3",
+   "from": 424.53999999999996,
+   "dur": 4.2299999999999995
+  },
+  {
+   "n": 60,
+   "speaker": "NARRATOR",
+   "text": "11:59. The door opens.",
+   "take": "060_NARRATOR.mp3",
+   "from": 429.59,
+   "dur": 3.5789999999999997
+  },
+  {
+   "n": 61,
+   "speaker": "NARRATOR",
+   "text": "And from the stairs, a little voice.",
+   "take": "061_NARRATOR.mp3",
+   "from": 435.989,
+   "dur": 3.1149999999999998
+  },
+  {
+   "n": 62,
+   "speaker": "NINA",
+   "text": "Don't go!",
+   "take": "062_NINA.mp3",
+   "from": 439.45399999999995,
+   "dur": 0.932
+  },
+  {
+   "n": 63,
+   "speaker": "NARRATOR",
+   "text": "She's running at you. Arms wide. Bare hands. The first thing you touch.",
+   "take": "063_NARRATOR.mp3",
+   "from": 440.73599999999993,
+   "dur": 6.18
+  },
+  {
+   "n": 64,
+   "speaker": "NARRATOR",
+   "text": "Two seconds.",
+   "take": "064_NARRATOR.mp3",
+   "from": 447.2659999999999,
+   "dur": 2.047
+  },
+  {
+   "n": 65,
+   "speaker": "NARRATOR",
+   "text": "Step back, and she hits the floor — and she'll try again. Reach for the suit, and they'll know exactly how dangerous you are. There's only one thing in this room you can touch that ends all of this.",
+   "take": "065_NARRATOR.mp3",
+   "from": 451.1329999999999,
+   "dur": 16.304000000000002
+  },
+  {
+   "n": 66,
+   "speaker": "NARRATOR",
+   "text": "You.",
+   "take": "066_NARRATOR.mp3",
+   "from": 467.7869999999999,
+   "dur": 1.2570000000000001
+  },
+  {
+   "n": 67,
+   "speaker": "NARRATOR",
+   "text": "You press your glowing fingertips into your own palm.",
+   "take": "067_NARRATOR.mp3",
+   "from": 469.39399999999995,
+   "dur": 4.0440000000000005
+  },
+  {
+   "n": 68,
+   "speaker": "NARRATOR",
+   "text": "Nina crashes into you. She's warm. She's laughing. She's not gold.",
+   "take": "068_NARRATOR.mp3",
+   "from": 475.35799999999995,
+   "dur": 5.669
+  },
+  {
+   "n": 69,
+   "speaker": "NARRATOR",
+   "text": "Your hand is. And your fingertips are gold too. They can't glow anymore. The touch is gone. For good.",
+   "take": "069_NARRATOR.mp3",
+   "from": 482.54699999999997,
+   "dur": 9.849
+  },
+  {
+   "n": 70,
+   "speaker": "NARRATOR",
+   "text": "The man in the suit looks at your hand. Then at his folder. Then he closes it.",
+   "take": "070_NARRATOR.mp3",
+   "from": 492.746,
+   "dur": 6.737
+  },
+  {
+   "n": 71,
+   "speaker": "SUIT",
+   "text": "…Well. That's that.",
+   "take": "071_SUIT.mp3",
+   "from": 499.83299999999997,
+   "dur": 1.675
+  },
+  {
+   "n": 72,
+   "speaker": "NARRATOR",
+   "text": "He walks out. The grey cars leave, one by one.",
+   "take": "072_NARRATOR.mp3",
+   "from": 504.328,
+   "dur": 5.901
+  },
+  {
+   "n": 73,
+   "speaker": "NARRATOR",
+   "text": "The next morning, your right hand is solid gold. It's heavy. You're learning to write with your left.",
+   "take": "073_NARRATOR.mp3",
+   "from": 511.62899999999996,
+   "dur": 9.431000000000001
+  },
+  {
+   "n": 74,
+   "speaker": "NARRATOR",
+   "text": "Nina doesn't care. She holds your gold hand all the way to school like it's the coolest thing in the world.",
+   "take": "074_NARRATOR.mp3",
+   "from": 521.41,
+   "dur": 6.923
+  },
+  {
+   "n": 75,
+   "speaker": "NARRATOR",
+   "text": "Maybe it is.",
+   "take": "075_NARRATOR.mp3",
+   "from": 528.683,
+   "dur": 1.629
+  },
+  {
+   "n": 76,
+   "speaker": "NARRATOR",
+   "text": "You turned thirty things into gold. Only one of them was worth it.",
+   "take": "076_NARRATOR.mp3",
+   "from": 530.662,
+   "dur": 4.833
+  },
+  {
+   "n": 77,
+   "speaker": "NARRATOR",
+   "text": "So what would YOU touch first? Tell us in the comments.",
+   "take": "077_NARRATOR.mp3",
+   "from": 535.845,
+   "dur": 4.508
+  },
+  {
+   "n": 78,
+   "speaker": "NARRATOR",
+   "text": "And if you want to know who's next… subscribe for part two.",
+   "take": "078_NARRATOR.mp3",
+   "from": 543.173,
+   "dur": 4.2299999999999995
+  }
+ ],
+ "shots": [
+  {
+   "id": "S01",
+   "from": 0,
+   "until": 11.242,
+   "line": 1
+  },
+  {
+   "id": "S02",
+   "from": 11.242,
+   "until": 14.319,
+   "line": 2
+  },
+  {
+   "id": "S03",
+   "from": 14.319,
+   "until": 22.133000000000003,
+   "line": 3
+  },
+  {
+   "id": "S04",
+   "from": 22.133000000000003,
+   "until": 24.437,
+   "line": 4
+  },
+  {
+   "id": "S05",
+   "from": 24.437,
+   "until": 35.472,
+   "line": 5
+  },
+  {
+   "id": "S06",
+   "from": 35.472,
+   "until": 59.094,
+   "line": 6
+  },
+  {
+   "id": "S07",
+   "from": 59.094,
+   "until": 69.487,
+   "line": 9
+  },
+  {
+   "id": "S08",
+   "from": 69.487,
+   "until": 85.589,
+   "line": 11
+  },
+  {
+   "id": "S09",
+   "from": 85.589,
+   "until": 94.098,
+   "line": 14
+  },
+  {
+   "id": "S10",
+   "from": 94.098,
+   "until": 103.27,
+   "line": 15
+  },
+  {
+   "id": "S11",
+   "from": 103.27,
+   "until": 126.57300000000001,
+   "line": 16
+  },
+  {
+   "id": "S12",
+   "from": 126.57300000000001,
+   "until": 151.294,
+   "line": 19
+  },
+  {
+   "id": "S13",
+   "from": 151.294,
+   "until": 171.831,
+   "line": 25
+  },
+  {
+   "id": "S14",
+   "from": 171.831,
+   "until": 195.27599999999998,
+   "line": 27
+  },
+  {
+   "id": "S15",
+   "from": 195.27599999999998,
+   "until": 219.81499999999997,
+   "line": 32
+  },
+  {
+   "id": "S16",
+   "from": 219.81499999999997,
+   "until": 234.88999999999996,
+   "line": 34
+  },
+  {
+   "id": "S17",
+   "from": 234.88999999999996,
+   "until": 265.72799999999995,
+   "line": 35
+  },
+  {
+   "id": "S18",
+   "from": 265.72799999999995,
+   "until": 279.64399999999995,
+   "line": 38
+  },
+  {
+   "id": "S19",
+   "from": 279.64399999999995,
+   "until": 294.91799999999995,
+   "line": 40
+  },
+  {
+   "id": "S20",
+   "from": 294.91799999999995,
+   "until": 319.49499999999995,
+   "line": 43
+  },
+  {
+   "id": "S21",
+   "from": 319.49499999999995,
+   "until": 351.9429999999999,
+   "line": 45
+  },
+  {
+   "id": "S22",
+   "from": 351.9429999999999,
+   "until": 358.79799999999994,
+   "line": 49
+  },
+  {
+   "id": "S23",
+   "from": 358.79799999999994,
+   "until": 382.19199999999995,
+   "line": 50
+  },
+  {
+   "id": "S24",
+   "from": 382.19199999999995,
+   "until": 394.6309999999999,
+   "line": 54
+  },
+  {
+   "id": "S25",
+   "from": 394.6309999999999,
+   "until": 424.53999999999996,
+   "line": 56
+  },
+  {
+   "id": "S26",
+   "from": 424.53999999999996,
+   "until": 435.989,
+   "line": 59
+  },
+  {
+   "id": "S27",
+   "from": 435.989,
+   "until": 440.73599999999993,
+   "line": 61
+  },
+  {
+   "id": "S28",
+   "from": 440.73599999999993,
+   "until": 469.39399999999995,
+   "line": 63
+  },
+  {
+   "id": "S29",
+   "from": 469.39399999999995,
+   "until": 475.35799999999995,
+   "line": 67
+  },
+  {
+   "id": "S30",
+   "from": 475.35799999999995,
+   "until": 511.62899999999996,
+   "line": 68
+  },
+  {
+   "id": "S31",
+   "from": 511.62899999999996,
+   "until": 530.662,
+   "line": 73
+  },
+  {
+   "id": "S32",
+   "from": 530.662,
+   "until": 535.845,
+   "line": 76
+  },
+  {
+   "id": "S33",
+   "from": 535.845,
+   "until": 549.903,
+   "line": 77
+  }
+ ],
+ "sfx": [
+  {
+   "clip": "night_ambience",
+   "from": 0,
+   "until": 43.758,
+   "loop": true,
+   "gain": 0.12,
+   "what": "bedroom at night, under the cold open",
+   "file": "night_ambience-a7bcdfed.mp3"
+  },
+  {
+   "clip": "clock_flip",
+   "from": 0.32,
+   "gain": 0.45,
+   "what": "11:59 -> 12:00",
+   "file": "clock_flip-64a8d5e7.mp3"
+  },
+  {
+   "clip": "fingertip_glow",
+   "from": 0.9199999999999999,
+   "gain": 0.45,
+   "what": "fingertips glow (the power's sound, every night)",
+   "file": "fingertip_glow-e756649d.mp3"
+  },
+  {
+   "clip": "gold_chime",
+   "from": 12.619,
+   "gain": 0.45,
+   "what": "paperclip turns gold (the power's signature, every touch)",
+   "file": "gold_chime-54460029.mp3"
+  },
+  {
+   "clip": "door_creak",
+   "from": 20.433000000000003,
+   "gain": 0.45,
+   "what": "Nina opens the door",
+   "file": "door_creak-6f54a199.mp3"
+  },
+  {
+   "clip": "title_boom",
+   "from": 41.958,
+   "gain": 0.45,
+   "what": "title card",
+   "file": "title_boom-91f4f23e.mp3"
+  },
+  {
+   "clip": "gold_thud",
+   "from": 64.047,
+   "gain": 0.45,
+   "what": "the gold pillow",
+   "file": "gold_thud-99cdc5de.mp3"
+  },
+  {
+   "clip": "gold_clank",
+   "from": 72.49,
+   "gain": 0.45,
+   "what": "gold glove hits the floor",
+   "file": "gold_clank-6b5284ef.mp3"
+  },
+  {
+   "clip": "coffee_stir",
+   "from": 102.07000000000001,
+   "gain": 0.45,
+   "what": "Mom stirs coffee with the gold spoon",
+   "file": "coffee_stir-e530f32f.mp3"
+  },
+  {
+   "clip": "bike_crash",
+   "from": 106.041,
+   "gain": 0.45,
+   "what": "the gold bike folds",
+   "file": "bike_crash-8fb3ee54.mp3"
+  },
+  {
+   "clip": "cookie_crunch",
+   "from": 122.54,
+   "gain": 0.45,
+   "what": "biting a coin (pirates)",
+   "file": "cookie_crunch-265c6a17.mp3"
+  },
+  {
+   "clip": "gold_chime",
+   "from": 135.53100000000003,
+   "gain": 0.45,
+   "what": "Theo's phone turns gold",
+   "file": "gold_chime-54460029.mp3"
+  },
+  {
+   "clip": "room_tone",
+   "from": 160.982,
+   "until": 195.27599999999998,
+   "loop": true,
+   "gain": 0.12,
+   "what": "Mom asleep on the couch",
+   "file": "room_tone-e711a45f.mp3"
+  },
+  {
+   "clip": "kid_giggle",
+   "from": 190.42899999999997,
+   "gain": 0.45,
+   "what": "'Gold poop.'",
+   "file": "kid_giggle-edae0339.mp3"
+  },
+  {
+   "clip": "drone_hit",
+   "from": 217.11499999999998,
+   "gain": 0.45,
+   "what": "the 22 m cube next to a building",
+   "file": "drone_hit-75f05067.mp3"
+  },
+  {
+   "clip": "sparkle",
+   "from": 258.46599999999995,
+   "gain": 0.45,
+   "what": "29 trillionths of a gram",
+   "file": "sparkle-595dbfb7.mp3"
+  },
+  {
+   "clip": "car_crunch",
+   "from": 270.86699999999996,
+   "gain": 0.45,
+   "what": "the gold car sinks into the mud",
+   "file": "car_crunch-5140c194.mp3"
+  },
+  {
+   "clip": "news_sting",
+   "from": 282.46099999999996,
+   "gain": 0.45,
+   "what": "the news report",
+   "file": "news_sting-c4a92e44.mp3"
+  },
+  {
+   "clip": "price_drop",
+   "from": 293.21799999999996,
+   "gain": 0.45,
+   "what": "the price of gold starts to fall",
+   "file": "price_drop-10c98522.mp3"
+  },
+  {
+   "clip": "vault_door",
+   "from": 347.24299999999994,
+   "gain": 0.45,
+   "what": "montage: vault door",
+   "file": "vault_door-a78b33df.mp3"
+  },
+  {
+   "clip": "price_drop",
+   "from": 348.24299999999994,
+   "gain": 0.45,
+   "what": "montage: price chart sliding down",
+   "file": "price_drop-10c98522.mp3"
+  },
+  {
+   "clip": "car_arrive",
+   "from": 349.24299999999994,
+   "gain": 0.45,
+   "what": "a grey car parks across the street",
+   "file": "car_arrive-b36b20c2.mp3"
+  },
+  {
+   "clip": "door_knock",
+   "from": 362.07899999999995,
+   "gain": 0.45,
+   "what": "day 27, the knock",
+   "file": "door_knock-4fbae0a2.mp3"
+  },
+  {
+   "clip": "paper_land",
+   "from": 381.292,
+   "gain": 0.45,
+   "what": "the folder on the table",
+   "file": "paper_land-e0d75d32.mp3"
+  },
+  {
+   "clip": "cars_pass",
+   "from": 399.39899999999994,
+   "gain": 0.45,
+   "what": "grey cars outside, headlights sweep",
+   "file": "cars_pass-d095e399.mp3"
+  },
+  {
+   "clip": "step",
+   "from": 428.89,
+   "gain": 0.45,
+   "what": "footsteps on the porch",
+   "file": "step-60144e17.mp3"
+  },
+  {
+   "clip": "door_creak",
+   "from": 433.289,
+   "gain": 0.45,
+   "what": "the door opens",
+   "file": "door_creak-6f54a199.mp3"
+  },
+  {
+   "clip": "fingertip_glow",
+   "from": 434.289,
+   "gain": 0.45,
+   "what": "12:00, fingertips glow",
+   "file": "fingertip_glow-e756649d.mp3"
+  },
+  {
+   "clip": "slowmo_whoosh",
+   "from": 449.43299999999994,
+   "gain": 0.45,
+   "what": "two seconds, slow motion",
+   "file": "slowmo_whoosh-88df3ef6.mp3"
+  },
+  {
+   "clip": "gold_chime_deep",
+   "from": 473.55799999999994,
+   "gain": 0.45,
+   "what": "gold spreads across the hand",
+   "file": "gold_chime_deep-b891b7d6.mp3"
+  },
+  {
+   "clip": "land",
+   "from": 474.55799999999994,
+   "gain": 0.45,
+   "what": "Nina crashes into you",
+   "file": "land-c5089052.mp3"
+  },
+  {
+   "clip": "kid_giggle",
+   "from": 481.14699999999993,
+   "gain": 0.45,
+   "what": "she's laughing",
+   "file": "kid_giggle-edae0339.mp3"
+  },
+  {
+   "clip": "cars_pass",
+   "from": 501.628,
+   "gain": 0.45,
+   "what": "the grey cars leave",
+   "file": "cars_pass-d095e399.mp3"
+  },
+  {
+   "clip": "news_sting",
+   "from": 540.4730000000001,
+   "gain": 0.45,
+   "what": "final shot: a TV news report",
+   "file": "news_sting-c4a92e44.mp3"
+  },
+  {
+   "clip": "fingertip_glow",
+   "from": 541.4730000000001,
+   "gain": 0.45,
+   "what": "another kid's fingertips glow",
+   "file": "fingertip_glow-e756649d.mp3"
+  }
+ ],
+ "sections": [
+  {
+   "title": "0:00 — Cold open",
+   "from": 0
+  },
+  {
+   "title": "0:45 — The rules",
+   "from": 43.758
+  },
+  {
+   "title": "1:40 — The fun part",
+   "from": 94.098
+  },
+  {
+   "title": "3:10 — Why gold is special",
+   "from": 195.27599999999998
+  },
+  {
+   "title": "4:20 — The cost",
+   "from": 265.72799999999995
+  },
+  {
+   "title": "5:40 — Someone notices",
+   "from": 351.9429999999999
+  },
+  {
+   "title": "6:50 — Day 30",
+   "from": 394.6309999999999
+  },
+  {
+   "title": "8:10 — Ending",
+   "from": 511.62899999999996
+  }
+ ],
+ "total": 549.903
+}
