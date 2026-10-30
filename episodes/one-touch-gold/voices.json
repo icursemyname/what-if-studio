@@ -1,0 +1,13 @@
+{
+  "model": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": { "stability": 0.4, "similarity_boost": 0.8, "style": 0.35, "use_speaker_boost": true },
+  "voices": {
+    "NARRATOR": { "id": "fCxG8OHm4STbIsWe4aT9", "name": "Harrison Gale" },
+    "NINA": { "id": "cgSgspJ2msm6clMCkdW9", "name": "Jessica" },
+    "THEO": { "id": "bIHbv24MWmeRgasZH58o", "name": "Will" },
+    "MOM": { "id": "hpp4J3VqNfWAUOO0d1Us", "name": "Bella" },
+    "SUIT": { "id": "cjVigY5qzO86Huf0OWal", "name": "Eric" },
+    "NEWS ANCHOR": { "id": "onwK4e9ZLuTAKqWW03F9", "name": "Daniel" }
+  }
+}

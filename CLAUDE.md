@@ -30,13 +30,17 @@ All characters and stories must be original: never a channel's own hero, never a
 - Title: "What If You Could Turn ONE Thing Into Gold Every Day?" / "E se você pudesse transformar UMA coisa em ouro por dia?"
 - Script (EN): `episodes/one-touch-gold/roteiro-en.md`. The PT version and the sourced science table are in the Claude Doc linked at the top of that file.
 - Storyboard: 33 key frames in `episodes/one-touch-gold/storyboard/` (open `index.html`), drawn with `tools/storyboard-kit/` (`python3 shots.py [S07 …]` re-renders frames, `build_page.py` rebuilds the page; output paths inside the scripts point to the old workspace and need adjusting).
-- **Next step: the voice.** About 7,500 spoken characters in English. **Model chosen by the owner: Flash v2.5 (`eleven_flash_v2_5`)**, about 3,750 credits plus 10–20% for retakes (the skill's `voice.py` defaults to Multilingual v2: set `"voice": {"model": "eleven_flash_v2_5"}` in the episode's `episode.json`). The owner approved as many voices and sound effects as make the video richer, on condition that every call is announced with its credit cost first and gets a yes.
-  - Spoken characters counted from `roteiro-en.md`: narrator 4,949 (64 lines), suit 311, Theo 189, Nina 63, news anchor 40, Mom 18; total 5,570, so about 2,800 credits on Flash v2.5 at its list rate. The skill's notes show this account's real rate drifting (0.22 to 0.44 a character on Multilingual v2), so re-check the rate on a short take before the full run.
-  - Sound: reuse `studio/library/sfx/` first (chimes, pops, cracks, steps, room tone, wind). New short clips run about 5–6 credits a second; long ambiences are the expensive part.
+- **Voice: done (2026-10-30).** Model chosen by the owner: **Multilingual v2 (`eleven_multilingual_v2`)**. 78 lines, 5,570 characters, about 7 min 48 s of speech, in `episodes/one-touch-gold/audio/voice/` (one mp3 per line, a `.json` of character timings beside each, `manifest.json` with each line's real cost). Made with `npm run voices -- one-touch-gold` (`tools/voice/voices.mjs`; cast and settings in `episodes/one-touch-gold/voices.json`): `--dry` counts characters, `--lines 4` or `--speaker NINA` picks lines, nothing is sent without `--yes`, and unchanged lines are reused for free.
+  - Cast: narrator Harrison Gale, Nina Jessica, Theo Will, Mom Bella, suit Eric, news anchor Daniel (all on the account). Jessica is a young adult voice; if Nina doesn't sound 7, look for a child voice in the Voice Library and re-run `--speaker NINA`.
+  - Real cost: 2,229 credits (narrator 1,980, suit 125, Theo 75, Nina 26, anchor 16, Mom 7), a steady 0.40 credits a character on this account. Use 0.40 to quote retakes.
+  - The owner approved as many voices and sound effects as make the video richer, on condition that every call is announced with its credit cost first and gets a yes.
+- **Next step: sound.** Reuse `studio/library/sfx/` first (chimes, pops, cracks, steps, room tone, wind). New short clips run about 5–6 credits a second; long ambiences are the expensive part.
 
 ## ElevenLabs access
 
-The key is stored as a network secret on the cloud environment (host `api.elevenlabs.io`, header `xi-api-key`), so it never appears in the session. The skill's `scripts/voice.py` reads `ELEVENLABS_API_KEY`; when the network secret is set, pass any placeholder value (the proxy replaces the header). Never commit a key: `.env` is in `.gitignore`.
+- **On the owner's Windows PC:** the key lives in `.env.local` (git-ignored), written by `npx -y @elevenlabs/cli@latest onboard init`; never open or print it. `npm run voices` loads it with `node --env-file=.env.local`; check it with `npx -y @elevenlabs/cli@latest onboard check --env-path .env.local`. This PC has Node but no Python or ffmpeg, so the skill's Python scripts don't run here.
+- **On the cloud environment:** the key is a network secret (host `api.elevenlabs.io`, header `xi-api-key`), so it never appears in the session. The skill's `scripts/voice.py` reads `ELEVENLABS_API_KEY`; when the network secret is set, pass any placeholder value (the proxy replaces the header).
+- Never commit a key: `.env` and `.env.local` are in `.gitignore`.
 
 ## Tools in this repo
 
