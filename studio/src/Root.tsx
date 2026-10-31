@@ -5,6 +5,7 @@ import { STUDIO } from './studio.config';
 import { EPISODES } from './episodes';
 import { CastSheet } from './CastSheet';
 import { Animatic, Timeline } from './animatic/Animatic';
+import { Motion } from './animatic/Motion';
 import oneTouchGold from './animatic/one-touch-gold.json';
 
 // Animatics of the long episodes (storyboard frames over the voice): Animatic-<slug>. Built by `npm run animatic`.
@@ -29,6 +30,16 @@ export const Root: React.FC = () => {
           key={t.slug}
           id={`Animatic-${t.slug}`}
           component={Animatic}
+          durationInFrames={Math.ceil(t.total * t.fps)}
+          defaultProps={{ timeline: t }}
+          {...common}
+        />
+      ))}
+      {ANIMATICS.map((t) => (
+        <Composition
+          key={`motion-${t.slug}`}
+          id={`Episode-${t.slug}`}
+          component={Motion}
           durationInFrames={Math.ceil(t.total * t.fps)}
           defaultProps={{ timeline: t }}
           {...common}

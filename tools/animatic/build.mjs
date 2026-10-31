@@ -1,4 +1,6 @@
-// The animatic's timeline: storyboard frames held over the voice takes, with the sound effects in the pauses.
+// The animatic's timeline: storyboard frames held over the voice takes, with the sound effects in the pauses. The
+// studio plays it twice: Animatic-<slug> (frames as they are, captions and shot ids, for review) and Episode-<slug>
+// (the animated storyboard: camera on each cut, transitions, picture effects on the hits).
 //
 //   npm run animatic -- <slug>      build the timeline and copy the media the studio needs (no API call, no credits)
 //   then, in studio/:  npx remotion render src/index.ts Animatic-<slug> out/<slug>-animatic.mp4 --scale=0.5
@@ -69,7 +71,12 @@ for (const [i, l] of lines.entries()) {
   const dur = al.characterEndTimesSeconds.at(-1) + 0.05;
   const next = lines[i + 1];
   if (!timeline.sections.length || timeline.sections.at(-1).title !== l.section) timeline.sections.push({ title: l.section, from: i ? t : 0 });
-  timeline.lines.push({ n: l.n, speaker: l.speaker, text: l.text, take, from: t, dur });
+  // Sentence ends inside the take (". " "? " "! "), where a cut can fall mid-line.
+  const stops = [];
+  al.characters.forEach((ch, k) => {
+    if (/[.?!…]/.test(ch) && al.characters[k + 1] === ' ') stops.push(t + al.characterEndTimesSeconds[k] + 0.05);
+  });
+  timeline.lines.push({ n: l.n, speaker: l.speaker, text: l.text, take, from: t, dur, stops });
   const { hits, need } = hitsAfter(l.n);
   for (const h of hits) timeline.sfx.push({ clip: h.clip, from: t + dur + h.offset, gain: VOL.hit, what: h.what });
   const gap = !next ? TAIL : next.section !== l.section ? SECTION_GAP : GAP;
@@ -86,12 +93,23 @@ for (const e of sound.events.filter((x) => isAmbience(x.clip))) {
 }
 timeline.sfx.sort((a, b) => a.from - b.from);
 
-// Frames: each starts with its line and holds until the next.
+// Frames: each starts with its line and holds until the next. One held over LONG_SHOT seconds with more than one
+// framing is split, at line starts and sentence ends, into cuts of at least CUT seconds that step through the framings.
+const LONG_SHOT = 9;
+const CUT = 5.5;
+const spec = (v) => (typeof v === 'number' ? { line: v, frames: [[0.5, 0.5, 1]] } : v);
 const ids = Object.keys(shots).sort();
 ids.forEach((id, i) => {
-  const from = i === 0 ? 0 : lineStart(shots[id]);
-  const until = i + 1 < ids.length ? lineStart(shots[ids[i + 1]]) : timeline.total;
-  timeline.shots.push({ id, from, until, line: shots[id] });
+  const { line, frames } = spec(shots[id]);
+  const from = i === 0 ? 0 : lineStart(line);
+  const until = i + 1 < ids.length ? lineStart(spec(shots[ids[i + 1]]).line) : timeline.total;
+  const starts = [from];
+  if (until - from > LONG_SHOT && frames.length > 1) {
+    const marks = timeline.lines.flatMap((l) => [l.from, ...l.stops]).sort((a, b) => a - b);
+    for (const m of marks) if (m - starts.at(-1) >= CUT && until - m >= CUT * 0.6) starts.push(m);
+  }
+  const cuts = starts.map((s, k) => ({ from: s, until: starts[k + 1] ?? until, frame: frames[k % frames.length] }));
+  timeline.shots.push({ id, from, until, line, cuts });
 });
 
 // The media, copied where the studio can read it.

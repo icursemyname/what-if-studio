@@ -10,8 +10,14 @@ export type Timeline = {
   slug: string;
   fps: number;
   total: number;
-  lines: { n: number; speaker: string; text: string; take: string; from: number; dur: number }[];
-  shots: { id: string; from: number; until: number; line: number }[];
+  lines: { n: number; speaker: string; text: string; take: string; from: number; dur: number; stops: number[] }[];
+  shots: {
+    id: string;
+    from: number;
+    until: number;
+    line: number;
+    cuts: { from: number; until: number; frame: [number, number, number] }[];
+  }[];
   sfx: { clip: string; file: string; from: number; until?: number; loop?: boolean; gain: number; what: string }[];
   sections: { title: string; from: number }[];
 };

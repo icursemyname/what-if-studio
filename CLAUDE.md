@@ -18,7 +18,7 @@ Animated "What If…?" videos for a new English-language YouTube channel. The ow
 
 | Character | Role | Clothes / hair |
 | --- | --- | --- |
-| Arlo | the hero, "you" in the narration | wine-red hoodie (#7a1f2b). Still to add: one signature detail of his own (e.g. mustard drawstrings or a small sun on the chest), because a black stickman in a red/orange hoodie is close to the heroes of Ifverse and Iflord |
+| Arlo | the hero, "you" in the narration | wine-red hoodie (#7a1f2b) with **mustard drawstrings** (chosen by the owner on 2026-10-30 as his signature detail, so he isn't close to the heroes of Ifverse and Iflord). Episode 1's storyboard frames predate this: add the drawstrings whenever they are redrawn |
 | Nina | little sister, 7 | pigtails with coral bands, peach pyjamas |
 | Theo | best friend | olive jacket, coral headphones round the neck |
 | Mom | | bob haircut, rose cardigan |
@@ -39,6 +39,7 @@ All characters and stories must be original: never a channel's own hero, never a
   - Real cost: 391 credits, a steady **10 credits a second** on this account. Sound clips are not in the generation history and the subscription counter lags; the usage stats (`/v1/usage/character-stats`, "Sound Effects") are exact once they settle, a minute or two after the run.
   - Still to do: placing each event on its frame and levelling it against the voice (needs the animation, and the skill's `sfx.py` needs Python and ffmpeg), and a music bed if wanted.
 - **Animatic (2026-10-30), no credits.** The 33 storyboard frames held over the 78 takes, the sound effects in the pauses, the line as a caption: 9:10 in all. `episodes/one-touch-gold/shots.json` says which voice line each frame starts on; `npm run animatic -- one-touch-gold` builds the timeline (`studio/src/animatic/one-touch-gold.json`, pauses set at the top of `tools/animatic/build.mjs`) and copies the media into `studio/public/one-touch-gold-animatic/` (git-ignored); the `Animatic-one-touch-gold` composition in the studio renders it (command in `build.mjs`). Frames held over 30 s, where the animation will need extra cuts: S17, S21, S30.
+- **Animation: animated storyboard (chosen by the owner, 2026-10-30), no credits.** The `Episode-one-touch-gold` composition (`studio/src/animatic/Motion.tsx`) plays the same timeline with a camera: each frame's framings `[x, y, zoom]` are in `shots.json`, and a frame held over 9 s is cut at line starts and sentence ends into ~6 s shots that step through them, each drifting in. Cross-fades between frames, a dip to black between sections, flashes, glows and shakes on the sound hits (the `FX` table in `Motion.tsx`). **No caption for the narrator (owner's request)**; the characters' lines keep a caption with their name. Render: in `studio/`, `./node_modules/.bin/remotion render src/index.ts Episode-one-touch-gold out/one-touch-gold.mp4`. The frames are 960x540, so close framings (zoom 2+) look soft; re-rendering them larger needs Python for `tools/storyboard-kit/`. Full character animation, scene by scene, is the possible next level.
 
 ## ElevenLabs access
 

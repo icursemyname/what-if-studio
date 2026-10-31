@@ -8,7 +8,11 @@
    "text": "At exactly midnight, your fingertips start to glow. Not a lot. Just enough to light up the paperclip on your desk.",
    "take": "001_NARRATOR.mp3",
    "from": 1.6,
-   "dur": 9.292000000000002
+   "dur": 9.292000000000002,
+   "stops": [
+    5.667000000000001,
+    6.840000000000001
+   ]
   },
   {
    "n": 2,
@@ -16,7 +20,8 @@
    "text": "You poke it.",
    "take": "002_NARRATOR.mp3",
    "from": 11.242,
-   "dur": 1.2570000000000001
+   "dur": 1.2570000000000001,
+   "stops": []
   },
   {
    "n": 3,
@@ -24,7 +29,13 @@
    "text": "It doesn't look like gold. It IS gold. Heavy. Cold. Real.",
    "take": "003_NARRATOR.mp3",
    "from": 14.319,
-   "dur": 5.994
+   "dur": 5.994,
+   "stops": [
+    15.878000000000002,
+    17.074,
+    17.956000000000003,
+    18.746000000000002
+   ]
   },
   {
    "n": 4,
@@ -32,7 +43,8 @@
    "text": "…Why is your paperclip shiny?",
    "take": "004_NINA.mp3",
    "from": 22.133000000000003,
-   "dur": 1.954
+   "dur": 1.954,
+   "stops": []
   },
   {
    "n": 5,
@@ -40,7 +52,13 @@
    "text": "You look at your hand. The glow is gone. One touch. That's all you get. But tomorrow at midnight, it comes back.",
    "take": "005_NARRATOR.mp3",
    "from": 24.437,
-   "dur": 10.685
+   "dur": 10.685,
+   "stops": [
+    25.880000000000003,
+    27.726000000000003,
+    29.352,
+    30.803
+   ]
   },
   {
    "n": 6,
@@ -48,7 +66,10 @@
    "text": "So… what if you could turn one thing into gold every single day?",
    "take": "006_NARRATOR.mp3",
    "from": 35.472,
-   "dur": 6.366
+   "dur": 6.366,
+   "stops": [
+    36.149
+   ]
   },
   {
    "n": 7,
@@ -56,7 +77,10 @@
    "text": "It takes you a week to figure out the rules. Mostly by getting them wrong.",
    "take": "007_NARRATOR.mp3",
    "from": 43.758,
-   "dur": 6.505
+   "dur": 6.505,
+   "stops": [
+    46.432
+   ]
   },
   {
    "n": 8,
@@ -64,7 +88,11 @@
    "text": "Rule one: it's the first thing you touch after midnight. Not the thing you want. The first thing.",
    "take": "008_NARRATOR.mp3",
    "from": 50.613,
-   "dur": 8.131
+   "dur": 8.131,
+   "stops": [
+    54.56399999999999,
+    56.48
+   ]
   },
   {
    "n": 9,
@@ -72,7 +100,10 @@
    "text": "Night two, you fall asleep waiting. You wake up hugging a solid gold pillow.",
    "take": "009_NARRATOR.mp3",
    "from": 59.094,
-   "dur": 4.833
+   "dur": 4.833,
+   "stops": [
+    61.28
+   ]
   },
   {
    "n": 10,
@@ -80,7 +111,11 @@
    "text": "Worst. Nap. Ever.",
    "take": "010_NARRATOR.mp3",
    "from": 65.047,
-   "dur": 4.09
+   "dur": 4.09,
+   "stops": [
+    65.863,
+    66.91999999999999
+   ]
   },
   {
    "n": 11,
@@ -88,7 +123,8 @@
    "text": "Rule two: gloves don't help.",
    "take": "011_NARRATOR.mp3",
    "from": 69.487,
-   "dur": 2.883
+   "dur": 2.883,
+   "stops": []
   },
   {
    "n": 12,
@@ -96,7 +132,8 @@
    "text": "They just turn into very expensive gloves.",
    "take": "012_NARRATOR.mp3",
    "from": 73.69,
-   "dur": 4.322
+   "dur": 4.322,
+   "stops": []
   },
   {
    "n": 13,
@@ -104,7 +141,11 @@
    "text": "Rule three: it's forever. You can't turn anything back. Ever.",
    "take": "013_NARRATOR.mp3",
    "from": 78.362,
-   "dur": 6.877
+   "dur": 6.877,
+   "stops": [
+    80.55999999999999,
+    83.184
+   ]
   },
   {
    "n": 14,
@@ -112,7 +153,10 @@
    "text": "So every night at 11:59, you sit very, very still… and you choose.",
    "take": "014_NARRATOR.mp3",
    "from": 85.589,
-   "dur": 7.109
+   "dur": 7.109,
+   "stops": [
+    90.37599999999999
+   ]
   },
   {
    "n": 15,
@@ -120,7 +164,10 @@
    "text": "Day three: a spoon. Your mom stirs her coffee with it for a week before she notices.",
    "take": "015_NARRATOR.mp3",
    "from": 94.098,
-   "dur": 7.851999999999999
+   "dur": 7.851999999999999,
+   "stops": [
+    96.621
+   ]
   },
   {
    "n": 16,
@@ -128,7 +175,8 @@
    "text": "Day four: your old bike.",
    "take": "016_NARRATOR.mp3",
    "from": 103.27,
-   "dur": 2.651
+   "dur": 2.651,
+   "stops": []
   },
   {
    "n": 17,
@@ -136,7 +184,13 @@
    "text": "Here's what nobody tells you about gold. It's heavy — about two and a half times heavier than steel. And it's soft. So soft you can dent it with your teeth. That's why pirates in movies bite their coins.",
    "take": "017_NARRATOR.mp3",
    "from": 107.741,
-   "dur": 14.679
+   "dur": 14.679,
+   "stops": [
+    109.916,
+    113.759,
+    115.14,
+    118.298
+   ]
   },
   {
    "n": 18,
@@ -144,7 +198,8 @@
    "text": "Gold bike: zero stars.",
    "take": "018_NARRATOR.mp3",
    "from": 123.34,
-   "dur": 2.883
+   "dur": 2.883,
+   "stops": []
   },
   {
    "n": 19,
@@ -152,7 +207,8 @@
    "text": "Day five, your best friend Theo has an idea.",
    "take": "019_NARRATOR.mp3",
    "from": 126.57300000000001,
-   "dur": 3.812
+   "dur": 3.812,
+   "stops": []
   },
   {
    "n": 20,
@@ -160,7 +216,11 @@
    "text": "Touch my phone. A golden phone. Do it.",
    "take": "020_THEO.mp3",
    "from": 130.735,
-   "dur": 2.883
+   "dur": 2.883,
+   "stops": [
+    131.72500000000002,
+    133.02600000000004
+   ]
   },
   {
    "n": 21,
@@ -168,7 +228,8 @@
    "text": "You touch it.",
    "take": "021_NARRATOR.mp3",
    "from": 133.96800000000002,
-   "dur": 1.443
+   "dur": 1.443,
+   "stops": []
   },
   {
    "n": 22,
@@ -176,7 +237,8 @@
    "text": "…Where's the screen?",
    "take": "022_THEO.mp3",
    "from": 137.23100000000002,
-   "dur": 1.2570000000000001
+   "dur": 1.2570000000000001,
+   "stops": []
   },
   {
    "n": 23,
@@ -184,7 +246,12 @@
    "text": "Everything turns to gold. The glass, the battery, the chips. Your touch doesn't make a gold phone. It makes a phone-shaped paperweight.",
    "take": "023_NARRATOR.mp3",
    "from": 138.83800000000002,
-   "dur": 10.406
+   "dur": 10.406,
+   "stops": [
+    140.46700000000004,
+    143.68300000000002,
+    146.29500000000004
+   ]
   },
   {
    "n": 24,
@@ -192,7 +259,8 @@
    "text": "My mom's gonna kill me.",
    "take": "024_THEO.mp3",
    "from": 149.59400000000002,
-   "dur": 1.35
+   "dur": 1.35,
+   "stops": []
   },
   {
    "n": 25,
@@ -200,7 +268,13 @@
    "text": "Then you get smart. A shop downtown buys gold by weight. No questions. Well… a few questions.",
    "take": "025_NARRATOR.mp3",
    "from": 151.294,
-   "dur": 9.338000000000001
+   "dur": 9.338000000000001,
+   "stops": [
+    152.57500000000002,
+    155.72100000000003,
+    157.23000000000002,
+    158.40300000000002
+   ]
   },
   {
    "n": 26,
@@ -208,7 +282,11 @@
    "text": "Day eight, the rent is paid. Day ten, the hospital bill from last winter: gone. Day twelve, your mom quits the late shift.",
    "take": "026_NARRATOR.mp3",
    "from": 160.982,
-   "dur": 10.499
+   "dur": 10.499,
+   "stops": [
+    163.31900000000002,
+    167.917
+   ]
   },
   {
    "n": 27,
@@ -216,7 +294,8 @@
    "text": "And Nina asks for one thing.",
    "take": "027_NARRATOR.mp3",
    "from": 171.831,
-   "dur": 3.161
+   "dur": 3.161,
+   "stops": []
   },
   {
    "n": 28,
@@ -224,7 +303,8 @@
    "text": "Can I eat gold?",
    "take": "028_NINA.mp3",
    "from": 175.34199999999998,
-   "dur": 1.35
+   "dur": 1.35,
+   "stops": []
   },
   {
    "n": 29,
@@ -232,7 +312,15 @@
    "text": "Technically… yes. Chefs put thin gold leaf on fancy cakes. It's safe. It does absolutely nothing. It goes in… and it comes out.",
    "take": "029_NARRATOR.mp3",
    "from": 177.04199999999997,
-   "dur": 12.217
+   "dur": 12.217,
+   "stops": [
+    178.009,
+    178.88,
+    182.92,
+    184.023,
+    185.962,
+    187.23899999999998
+   ]
   },
   {
    "n": 30,
@@ -240,7 +328,8 @@
    "text": "Gold poop.",
    "take": "030_NINA.mp3",
    "from": 189.60899999999998,
-   "dur": 0.7000000000000001
+   "dur": 0.7000000000000001,
+   "stops": []
   },
   {
    "n": 31,
@@ -248,7 +337,8 @@
    "text": "Gold poop.",
    "take": "031_NARRATOR.mp3",
    "from": 191.82899999999998,
-   "dur": 2.047
+   "dur": 2.047,
+   "stops": []
   },
   {
    "n": 32,
@@ -256,7 +346,10 @@
    "text": "But why is gold worth so much in the first place? Because there's so little of it.",
    "take": "032_NARRATOR.mp3",
    "from": 195.27599999999998,
-   "dur": 5.994
+   "dur": 5.994,
+   "stops": [
+    198.49599999999998
+   ]
   },
   {
    "n": 33,
@@ -264,7 +357,13 @@
    "text": "Take all the gold humans have ever dug up. Every coin, every ring, every bar in every bank vault. Melt it together, and it makes a cube about twenty-two meters on each side. That's it. All of it.",
    "take": "033_NARRATOR.mp3",
    "from": 201.61999999999998,
-   "dur": 15.375
+   "dur": 15.375,
+   "stops": [
+    204.131,
+    208.392,
+    213.524,
+    214.91699999999997
+   ]
   },
   {
    "n": 34,
@@ -272,7 +371,11 @@
    "text": "And nobody on Earth knows how to make more. Much of the gold in the universe was forged when two dead stars — neutron stars — smashed into each other. The gold in your mom's ring is older than the Earth.",
    "take": "034_NARRATOR.mp3",
    "from": 219.81499999999997,
-   "dur": 14.725000000000001
+   "dur": 14.725000000000001,
+   "stops": [
+    222.26799999999997,
+    230.18599999999998
+   ]
   },
   {
    "n": 35,
@@ -280,7 +383,15 @@
    "text": "For thousands of years, people tried to make it anyway. They called it alchemy. And just once, we did it. Inside the Large Hadron Collider, physicists fired lead atoms past each other for years… and made gold. About 29 trillionths of a gram. It lasted less than a millionth of a second.",
    "take": "035_NARRATOR.mp3",
    "from": 234.88999999999996,
-   "dur": 23.456
+   "dur": 23.456,
+   "stops": [
+    237.96999999999997,
+    240.23399999999998,
+    242.36999999999998,
+    249.51099999999997,
+    250.98499999999996,
+    254.07299999999998
+   ]
   },
   {
    "n": 36,
@@ -288,7 +399,8 @@
    "text": "That's real.",
    "take": "036_NARRATOR.mp3",
    "from": 259.46599999999995,
-   "dur": 1.583
+   "dur": 1.583,
+   "stops": []
   },
   {
    "n": 37,
@@ -296,7 +408,8 @@
    "text": "You make more gold than that before breakfast.",
    "take": "037_NARRATOR.mp3",
    "from": 261.39899999999994,
-   "dur": 2.929
+   "dur": 2.929,
+   "stops": []
   },
   {
    "n": 38,
@@ -304,7 +417,10 @@
    "text": "Day fourteen, you get greedy. You touch an old car in the junkyard.",
    "take": "038_NARRATOR.mp3",
    "from": 265.72799999999995,
-   "dur": 5.019
+   "dur": 5.019,
+   "stops": [
+    268.20399999999995
+   ]
   },
   {
    "n": 39,
@@ -312,7 +428,10 @@
    "text": "A gold car weighs as much as a small truck. And it's worth more than your whole street.",
    "take": "039_NARRATOR.mp3",
    "from": 273.06699999999995,
-   "dur": 6.226999999999999
+   "dur": 6.226999999999999,
+   "stops": [
+    275.86899999999997
+   ]
   },
   {
    "n": 40,
@@ -320,7 +439,8 @@
    "text": "The next week, it's on the news.",
    "take": "040_NARRATOR.mp3",
    "from": 279.64399999999995,
-   "dur": 2.6969999999999996
+   "dur": 2.6969999999999996,
+   "stops": []
   },
   {
    "n": 41,
@@ -328,7 +448,8 @@
    "text": "…mysterious gold flooding local markets…",
    "take": "041_NEWS_ANCHOR.mp3",
    "from": 284.66099999999994,
-   "dur": 2.929
+   "dur": 2.929,
+   "stops": []
   },
   {
    "n": 42,
@@ -336,7 +457,10 @@
    "text": "And something weird starts happening. The price of gold starts to fall.",
    "take": "042_NARRATOR.mp3",
    "from": 287.93999999999994,
-   "dur": 5.1579999999999995
+   "dur": 5.1579999999999995,
+   "stops": [
+    289.90599999999995
+   ]
   },
   {
    "n": 43,
@@ -344,7 +468,11 @@
    "text": "This has happened before. In 1324, Mansa Musa, the king of Mali and one of the richest people who ever lived, passed through Cairo on his way to Mecca. Historians say he gave away so much gold that it lost value there for years.",
    "take": "043_NARRATOR.mp3",
    "from": 294.91799999999995,
-   "dur": 18.115000000000002
+   "dur": 18.115000000000002,
+   "stops": [
+    296.64,
+    306.85699999999997
+   ]
   },
   {
    "n": 44,
@@ -352,7 +480,10 @@
    "text": "Gold is only worth a lot because there isn't much of it. And now there's you.",
    "take": "044_NARRATOR.mp3",
    "from": 313.3829999999999,
-   "dur": 5.762
+   "dur": 5.762,
+   "stops": [
+    316.49799999999993
+   ]
   },
   {
    "n": 45,
@@ -360,7 +491,10 @@
    "text": "Theo comes over. He's quiet.",
    "take": "045_NARRATOR.mp3",
    "from": 319.49499999999995,
-   "dur": 2.976
+   "dur": 2.976,
+   "stops": [
+    320.80999999999995
+   ]
   },
   {
    "n": 46,
@@ -368,7 +502,12 @@
    "text": "My grandma saved gold her whole life. Rings, a necklace. For emergencies. The shop says it's worth less now.",
    "take": "046_THEO.mp3",
    "from": 322.82099999999997,
-   "dur": 7.7589999999999995
+   "dur": 7.7589999999999995,
+   "stops": [
+    324.914,
+    326.865,
+    328.061
+   ]
   },
   {
    "n": 47,
@@ -376,7 +515,10 @@
    "text": "He doesn't say it's your fault. He doesn't have to.",
    "take": "047_NARRATOR.mp3",
    "from": 330.92999999999995,
-   "dur": 3.812
+   "dur": 3.812,
+   "stops": [
+    332.513
+   ]
   },
   {
    "n": 48,
@@ -384,7 +526,12 @@
    "text": "Every bit of gold you make makes everyone else's gold worth a little less. Grandmas. Families. Whole countries keep gold in their vaults to protect their money.",
    "take": "048_NARRATOR.mp3",
    "from": 335.0919999999999,
-   "dur": 12.031
+   "dur": 12.031,
+   "stops": [
+    339.9719999999999,
+    341.49299999999994,
+    342.50299999999993
+   ]
   },
   {
    "n": 49,
@@ -392,7 +539,11 @@
    "text": "Day twenty-six. A grey car parks across the street. It doesn't leave.",
    "take": "049_NARRATOR.mp3",
    "from": 351.9429999999999,
-   "dur": 6.505
+   "dur": 6.505,
+   "stops": [
+    353.4789999999999,
+    356.3349999999999
+   ]
   },
   {
    "n": 50,
@@ -400,7 +551,8 @@
    "text": "Day twenty-seven, there's a knock.",
    "take": "050_NARRATOR.mp3",
    "from": 358.79799999999994,
-   "dur": 3.161
+   "dur": 3.161,
+   "stops": []
   },
   {
    "n": 51,
@@ -408,7 +560,14 @@
    "text": "We know what you can do. Here's how this goes. One touch a day — for us. We decide what you touch. We decide where the gold goes. In return, your family never worries about money again.",
    "take": "051_SUIT.mp3",
    "from": 363.27899999999994,
-   "dur": 12.217
+   "dur": 12.217,
+   "stops": [
+    364.4669999999999,
+    366.0919999999999,
+    368.07699999999994,
+    370.13199999999995,
+    372.28
+   ]
   },
   {
    "n": 52,
@@ -416,7 +575,8 @@
    "text": "And if he says no?",
    "take": "052_MOM.mp3",
    "from": 375.84599999999995,
-   "dur": 1.397
+   "dur": 1.397,
+   "stops": []
   },
   {
    "n": 53,
@@ -424,7 +584,10 @@
    "text": "Then someone else will find him. Someone less polite.",
    "take": "053_SUIT.mp3",
    "from": 377.59299999999996,
-   "dur": 3.5789999999999997
+   "dur": 3.5789999999999997,
+   "stops": [
+    379.14099999999996
+   ]
   },
   {
    "n": 54,
@@ -432,7 +595,11 @@
    "text": "He leaves the folder on the table. Inside: a photo of your house. And a photo of Nina's school.",
    "take": "054_NARRATOR.mp3",
    "from": 382.19199999999995,
-   "dur": 7.295
+   "dur": 7.295,
+   "stops": [
+    384.042,
+    386.77
+   ]
   },
   {
    "n": 55,
@@ -440,7 +607,10 @@
    "text": "We'll pick you up on day thirty. Just before midnight.",
    "take": "055_SUIT.mp3",
    "from": 389.83699999999993,
-   "dur": 3.3939999999999997
+   "dur": 3.3939999999999997,
+   "stops": [
+    391.30299999999994
+   ]
   },
   {
    "n": 56,
@@ -448,7 +618,10 @@
    "text": "Day thirty. 11:50 p.m.",
    "take": "056_NARRATOR.mp3",
    "from": 394.6309999999999,
-   "dur": 4.648
+   "dur": 4.648,
+   "stops": [
+    395.57499999999993
+   ]
   },
   {
    "n": 57,
@@ -456,7 +629,11 @@
    "text": "Mom is pacing. Theo snuck in through the back door. Nina is supposed to be asleep.",
    "take": "057_NARRATOR.mp3",
    "from": 402.09899999999993,
-   "dur": 6.0409999999999995
+   "dur": 6.0409999999999995,
+   "stops": [
+    403.35599999999994,
+    405.61999999999995
+   ]
   },
   {
    "n": 58,
@@ -464,7 +641,14 @@
    "text": "You've thought about everything. Running. Hiding. Saying yes. But every road ends the same way: midnight comes, your fingers glow, and someone else decides what you touch. Forever.",
    "take": "058_NARRATOR.mp3",
    "from": 408.48999999999995,
-   "dur": 15.700000000000001
+   "dur": 15.700000000000001,
+   "stops": [
+    410.08399999999995,
+    411.001,
+    411.79099999999994,
+    413.18399999999997,
+    421.49699999999996
+   ]
   },
   {
    "n": 59,
@@ -472,7 +656,10 @@
    "text": "11:58. Footsteps on the porch.",
    "take": "059_NARRATOR.mp3",
    "from": 424.53999999999996,
-   "dur": 4.2299999999999995
+   "dur": 4.2299999999999995,
+   "stops": [
+    425.774
+   ]
   },
   {
    "n": 60,
@@ -480,7 +667,10 @@
    "text": "11:59. The door opens.",
    "take": "060_NARRATOR.mp3",
    "from": 429.59,
-   "dur": 3.5789999999999997
+   "dur": 3.5789999999999997,
+   "stops": [
+    430.97499999999997
+   ]
   },
   {
    "n": 61,
@@ -488,7 +678,8 @@
    "text": "And from the stairs, a little voice.",
    "take": "061_NARRATOR.mp3",
    "from": 435.989,
-   "dur": 3.1149999999999998
+   "dur": 3.1149999999999998,
+   "stops": []
   },
   {
    "n": 62,
@@ -496,7 +687,8 @@
    "text": "Don't go!",
    "take": "062_NINA.mp3",
    "from": 439.45399999999995,
-   "dur": 0.932
+   "dur": 0.932,
+   "stops": []
   },
   {
    "n": 63,
@@ -504,7 +696,12 @@
    "text": "She's running at you. Arms wide. Bare hands. The first thing you touch.",
    "take": "063_NARRATOR.mp3",
    "from": 440.73599999999993,
-   "dur": 6.18
+   "dur": 6.18,
+   "stops": [
+    441.98199999999997,
+    443.20099999999996,
+    444.53599999999994
+   ]
   },
   {
    "n": 64,
@@ -512,7 +709,8 @@
    "text": "Two seconds.",
    "take": "064_NARRATOR.mp3",
    "from": 447.2659999999999,
-   "dur": 2.047
+   "dur": 2.047,
+   "stops": []
   },
   {
    "n": 65,
@@ -520,7 +718,11 @@
    "text": "Step back, and she hits the floor — and she'll try again. Reach for the suit, and they'll know exactly how dangerous you are. There's only one thing in this room you can touch that ends all of this.",
    "take": "065_NARRATOR.mp3",
    "from": 451.1329999999999,
-   "dur": 16.304000000000002
+   "dur": 16.304000000000002,
+   "stops": [
+    455.8039999999999,
+    461.16799999999995
+   ]
   },
   {
    "n": 66,
@@ -528,7 +730,8 @@
    "text": "You.",
    "take": "066_NARRATOR.mp3",
    "from": 467.7869999999999,
-   "dur": 1.2570000000000001
+   "dur": 1.2570000000000001,
+   "stops": []
   },
   {
    "n": 67,
@@ -536,7 +739,8 @@
    "text": "You press your glowing fingertips into your own palm.",
    "take": "067_NARRATOR.mp3",
    "from": 469.39399999999995,
-   "dur": 4.0440000000000005
+   "dur": 4.0440000000000005,
+   "stops": []
   },
   {
    "n": 68,
@@ -544,7 +748,12 @@
    "text": "Nina crashes into you. She's warm. She's laughing. She's not gold.",
    "take": "068_NARRATOR.mp3",
    "from": 475.35799999999995,
-   "dur": 5.669
+   "dur": 5.669,
+   "stops": [
+    476.98699999999997,
+    478.21799999999996,
+    479.41299999999995
+   ]
   },
   {
    "n": 69,
@@ -552,7 +761,13 @@
    "text": "Your hand is. And your fingertips are gold too. They can't glow anymore. The touch is gone. For good.",
    "take": "069_NARRATOR.mp3",
    "from": 482.54699999999997,
-   "dur": 9.849
+   "dur": 9.849,
+   "stops": [
+    483.642,
+    486.022,
+    487.84499999999997,
+    489.575
+   ]
   },
   {
    "n": 70,
@@ -560,7 +775,11 @@
    "text": "The man in the suit looks at your hand. Then at his folder. Then he closes it.",
    "take": "070_NARRATOR.mp3",
    "from": 492.746,
-   "dur": 6.737
+   "dur": 6.737,
+   "stops": [
+    495.06,
+    496.871
+   ]
   },
   {
    "n": 71,
@@ -568,7 +787,10 @@
    "text": "…Well. That's that.",
    "take": "071_SUIT.mp3",
    "from": 499.83299999999997,
-   "dur": 1.675
+   "dur": 1.675,
+   "stops": [
+    500.54499999999996
+   ]
   },
   {
    "n": 72,
@@ -576,7 +798,10 @@
    "text": "He walks out. The grey cars leave, one by one.",
    "take": "072_NARRATOR.mp3",
    "from": 504.328,
-   "dur": 5.901
+   "dur": 5.901,
+   "stops": [
+    505.51599999999996
+   ]
   },
   {
    "n": 73,
@@ -584,7 +809,11 @@
    "text": "The next morning, your right hand is solid gold. It's heavy. You're learning to write with your left.",
    "take": "073_NARRATOR.mp3",
    "from": 511.62899999999996,
-   "dur": 9.431000000000001
+   "dur": 9.431000000000001,
+   "stops": [
+    515.708,
+    517.2749999999999
+   ]
   },
   {
    "n": 74,
@@ -592,7 +821,10 @@
    "text": "Nina doesn't care. She holds your gold hand all the way to school like it's the coolest thing in the world.",
    "take": "074_NARRATOR.mp3",
    "from": 521.41,
-   "dur": 6.923
+   "dur": 6.923,
+   "stops": [
+    522.737
+   ]
   },
   {
    "n": 75,
@@ -600,7 +832,8 @@
    "text": "Maybe it is.",
    "take": "075_NARRATOR.mp3",
    "from": 528.683,
-   "dur": 1.629
+   "dur": 1.629,
+   "stops": []
   },
   {
    "n": 76,
@@ -608,7 +841,10 @@
    "text": "You turned thirty things into gold. Only one of them was worth it.",
    "take": "076_NARRATOR.mp3",
    "from": 530.662,
-   "dur": 4.833
+   "dur": 4.833,
+   "stops": [
+    532.802
+   ]
   },
   {
    "n": 77,
@@ -616,7 +852,10 @@
    "text": "So what would YOU touch first? Tell us in the comments.",
    "take": "077_NARRATOR.mp3",
    "from": 535.845,
-   "dur": 4.508
+   "dur": 4.508,
+   "stops": [
+    538.008
+   ]
   },
   {
    "n": 78,
@@ -624,7 +863,10 @@
    "text": "And if you want to know who's next… subscribe for part two.",
    "take": "078_NARRATOR.mp3",
    "from": 543.173,
-   "dur": 4.2299999999999995
+   "dur": 4.2299999999999995,
+   "stops": [
+    545.115
+   ]
   }
  ],
  "shots": [
@@ -632,199 +874,967 @@
    "id": "S01",
    "from": 0,
    "until": 11.242,
-   "line": 1
+   "line": 1,
+   "cuts": [
+    {
+     "from": 0,
+     "until": 5.667000000000001,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 5.667000000000001,
+     "until": 11.242,
+     "frame": [
+      0.67,
+      0.62,
+      1.8
+     ]
+    }
+   ]
   },
   {
    "id": "S02",
    "from": 11.242,
    "until": 14.319,
-   "line": 2
+   "line": 2,
+   "cuts": [
+    {
+     "from": 11.242,
+     "until": 14.319,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    }
+   ]
   },
   {
    "id": "S03",
    "from": 14.319,
    "until": 22.133000000000003,
-   "line": 3
+   "line": 3,
+   "cuts": [
+    {
+     "from": 14.319,
+     "until": 22.133000000000003,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    }
+   ]
   },
   {
    "id": "S04",
    "from": 22.133000000000003,
    "until": 24.437,
-   "line": 4
+   "line": 4,
+   "cuts": [
+    {
+     "from": 22.133000000000003,
+     "until": 24.437,
+     "frame": [
+      0.5,
+      0.45,
+      1
+     ]
+    }
+   ]
   },
   {
    "id": "S05",
    "from": 24.437,
    "until": 35.472,
-   "line": 5
+   "line": 5,
+   "cuts": [
+    {
+     "from": 24.437,
+     "until": 30.803,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 30.803,
+     "until": 35.472,
+     "frame": [
+      0.33,
+      0.65,
+      1.6
+     ]
+    }
+   ]
   },
   {
    "id": "S06",
    "from": 35.472,
    "until": 59.094,
-   "line": 6
+   "line": 6,
+   "cuts": [
+    {
+     "from": 35.472,
+     "until": 43.758,
+     "frame": [
+      0.5,
+      0.45,
+      1
+     ]
+    },
+    {
+     "from": 43.758,
+     "until": 50.613,
+     "frame": [
+      0.5,
+      0.5,
+      1.25
+     ]
+    },
+    {
+     "from": 50.613,
+     "until": 59.094,
+     "frame": [
+      0.5,
+      0.45,
+      1
+     ]
+    }
+   ]
   },
   {
    "id": "S07",
    "from": 59.094,
    "until": 69.487,
-   "line": 9
+   "line": 9,
+   "cuts": [
+    {
+     "from": 59.094,
+     "until": 65.047,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 65.047,
+     "until": 69.487,
+     "frame": [
+      0.5,
+      0.55,
+      1.5
+     ]
+    }
+   ]
   },
   {
    "id": "S08",
    "from": 69.487,
    "until": 85.589,
-   "line": 11
+   "line": 11,
+   "cuts": [
+    {
+     "from": 69.487,
+     "until": 78.362,
+     "frame": [
+      0.5,
+      0.55,
+      1
+     ]
+    },
+    {
+     "from": 78.362,
+     "until": 85.589,
+     "frame": [
+      0.5,
+      0.58,
+      1.5
+     ]
+    }
+   ]
   },
   {
    "id": "S09",
    "from": 85.589,
    "until": 94.098,
-   "line": 14
+   "line": 14,
+   "cuts": [
+    {
+     "from": 85.589,
+     "until": 94.098,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    }
+   ]
   },
   {
    "id": "S10",
    "from": 94.098,
    "until": 103.27,
-   "line": 15
+   "line": 15,
+   "cuts": [
+    {
+     "from": 94.098,
+     "until": 103.27,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    }
+   ]
   },
   {
    "id": "S11",
    "from": 103.27,
    "until": 126.57300000000001,
-   "line": 16
+   "line": 16,
+   "cuts": [
+    {
+     "from": 103.27,
+     "until": 109.916,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 109.916,
+     "until": 118.298,
+     "frame": [
+      0.47,
+      0.74,
+      1.8
+     ]
+    },
+    {
+     "from": 118.298,
+     "until": 126.57300000000001,
+     "frame": [
+      0.68,
+      0.76,
+      2
+     ]
+    }
+   ]
   },
   {
    "id": "S12",
    "from": 126.57300000000001,
    "until": 151.294,
-   "line": 19
+   "line": 19,
+   "cuts": [
+    {
+     "from": 126.57300000000001,
+     "until": 133.02600000000004,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 133.02600000000004,
+     "until": 138.83800000000002,
+     "frame": [
+      0.57,
+      0.61,
+      1.8
+     ]
+    },
+    {
+     "from": 138.83800000000002,
+     "until": 146.29500000000004,
+     "frame": [
+      0.42,
+      0.55,
+      1.3
+     ]
+    },
+    {
+     "from": 146.29500000000004,
+     "until": 151.294,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    }
+   ]
   },
   {
    "id": "S13",
    "from": 151.294,
    "until": 171.831,
-   "line": 25
+   "line": 25,
+   "cuts": [
+    {
+     "from": 151.294,
+     "until": 157.23000000000002,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 157.23000000000002,
+     "until": 163.31900000000002,
+     "frame": [
+      0.6,
+      0.62,
+      1.7
+     ]
+    },
+    {
+     "from": 163.31900000000002,
+     "until": 171.831,
+     "frame": [
+      0.61,
+      0.8,
+      2.1
+     ]
+    }
+   ]
   },
   {
    "id": "S14",
    "from": 171.831,
    "until": 195.27599999999998,
-   "line": 27
+   "line": 27,
+   "cuts": [
+    {
+     "from": 171.831,
+     "until": 178.009,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 178.009,
+     "until": 184.023,
+     "frame": [
+      0.44,
+      0.7,
+      1.7
+     ]
+    },
+    {
+     "from": 184.023,
+     "until": 189.60899999999998,
+     "frame": [
+      0.68,
+      0.76,
+      1.9
+     ]
+    },
+    {
+     "from": 189.60899999999998,
+     "until": 195.27599999999998,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    }
+   ]
   },
   {
    "id": "S15",
    "from": 195.27599999999998,
    "until": 219.81499999999997,
-   "line": 32
+   "line": 32,
+   "cuts": [
+    {
+     "from": 195.27599999999998,
+     "until": 201.61999999999998,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 201.61999999999998,
+     "until": 208.392,
+     "frame": [
+      0.38,
+      0.55,
+      1.4
+     ]
+    },
+    {
+     "from": 208.392,
+     "until": 214.91699999999997,
+     "frame": [
+      0.54,
+      0.78,
+      2.2
+     ]
+    },
+    {
+     "from": 214.91699999999997,
+     "until": 219.81499999999997,
+     "frame": [
+      0.6,
+      0.55,
+      1.2
+     ]
+    }
+   ]
   },
   {
    "id": "S16",
    "from": 219.81499999999997,
    "until": 234.88999999999996,
-   "line": 34
+   "line": 34,
+   "cuts": [
+    {
+     "from": 219.81499999999997,
+     "until": 230.18599999999998,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 230.18599999999998,
+     "until": 234.88999999999996,
+     "frame": [
+      0.5,
+      0.5,
+      1.5
+     ]
+    }
+   ]
   },
   {
    "id": "S17",
    "from": 234.88999999999996,
    "until": 265.72799999999995,
-   "line": 35
+   "line": 35,
+   "cuts": [
+    {
+     "from": 234.88999999999996,
+     "until": 242.36999999999998,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 242.36999999999998,
+     "until": 249.51099999999997,
+     "frame": [
+      0.5,
+      0.5,
+      1.6
+     ]
+    },
+    {
+     "from": 249.51099999999997,
+     "until": 259.46599999999995,
+     "frame": [
+      0.68,
+      0.46,
+      2
+     ]
+    },
+    {
+     "from": 259.46599999999995,
+     "until": 265.72799999999995,
+     "frame": [
+      0.18,
+      0.86,
+      2.2
+     ]
+    }
+   ]
   },
   {
    "id": "S18",
    "from": 265.72799999999995,
    "until": 279.64399999999995,
-   "line": 38
+   "line": 38,
+   "cuts": [
+    {
+     "from": 265.72799999999995,
+     "until": 273.06699999999995,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 273.06699999999995,
+     "until": 279.64399999999995,
+     "frame": [
+      0.55,
+      0.72,
+      1.6
+     ]
+    }
+   ]
   },
   {
    "id": "S19",
    "from": 279.64399999999995,
    "until": 294.91799999999995,
-   "line": 40
+   "line": 40,
+   "cuts": [
+    {
+     "from": 279.64399999999995,
+     "until": 287.93999999999994,
+     "frame": [
+      0.5,
+      0.45,
+      1
+     ]
+    },
+    {
+     "from": 287.93999999999994,
+     "until": 294.91799999999995,
+     "frame": [
+      0.57,
+      0.44,
+      1.6
+     ]
+    }
+   ]
   },
   {
    "id": "S20",
    "from": 294.91799999999995,
    "until": 319.49499999999995,
-   "line": 43
+   "line": 43,
+   "cuts": [
+    {
+     "from": 294.91799999999995,
+     "until": 306.85699999999997,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 306.85699999999997,
+     "until": 313.3829999999999,
+     "frame": [
+      0.44,
+      0.6,
+      1.6
+     ]
+    },
+    {
+     "from": 313.3829999999999,
+     "until": 319.49499999999995,
+     "frame": [
+      0.82,
+      0.14,
+      2.2
+     ]
+    }
+   ]
   },
   {
    "id": "S21",
    "from": 319.49499999999995,
    "until": 351.9429999999999,
-   "line": 45
+   "line": 45,
+   "cuts": [
+    {
+     "from": 319.49499999999995,
+     "until": 326.865,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 326.865,
+     "until": 332.513,
+     "frame": [
+      0.49,
+      0.7,
+      1.6
+     ]
+    },
+    {
+     "from": 332.513,
+     "until": 339.9719999999999,
+     "frame": [
+      0.58,
+      0.7,
+      2.1
+     ]
+    },
+    {
+     "from": 339.9719999999999,
+     "until": 351.9429999999999,
+     "frame": [
+      0.4,
+      0.68,
+      2.1
+     ]
+    }
+   ]
   },
   {
    "id": "S22",
    "from": 351.9429999999999,
    "until": 358.79799999999994,
-   "line": 49
+   "line": 49,
+   "cuts": [
+    {
+     "from": 351.9429999999999,
+     "until": 358.79799999999994,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    }
+   ]
   },
   {
    "id": "S23",
    "from": 358.79799999999994,
    "until": 382.19199999999995,
-   "line": 50
+   "line": 50,
+   "cuts": [
+    {
+     "from": 358.79799999999994,
+     "until": 364.4669999999999,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 364.4669999999999,
+     "until": 370.13199999999995,
+     "frame": [
+      0.49,
+      0.6,
+      1.7
+     ]
+    },
+    {
+     "from": 370.13199999999995,
+     "until": 375.84599999999995,
+     "frame": [
+      0.84,
+      0.7,
+      2
+     ]
+    },
+    {
+     "from": 375.84599999999995,
+     "until": 382.19199999999995,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    }
+   ]
   },
   {
    "id": "S24",
    "from": 382.19199999999995,
    "until": 394.6309999999999,
-   "line": 54
+   "line": 54,
+   "cuts": [
+    {
+     "from": 382.19199999999995,
+     "until": 389.83699999999993,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 389.83699999999993,
+     "until": 394.6309999999999,
+     "frame": [
+      0.38,
+      0.5,
+      1.5
+     ]
+    }
+   ]
   },
   {
    "id": "S25",
    "from": 394.6309999999999,
    "until": 424.53999999999996,
-   "line": 56
+   "line": 56,
+   "cuts": [
+    {
+     "from": 394.6309999999999,
+     "until": 402.09899999999993,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 402.09899999999993,
+     "until": 408.48999999999995,
+     "frame": [
+      0.64,
+      0.32,
+      2.2
+     ]
+    },
+    {
+     "from": 408.48999999999995,
+     "until": 424.53999999999996,
+     "frame": [
+      0.46,
+      0.68,
+      1.8
+     ]
+    }
+   ]
   },
   {
    "id": "S26",
    "from": 424.53999999999996,
    "until": 435.989,
-   "line": 59
+   "line": 59,
+   "cuts": [
+    {
+     "from": 424.53999999999996,
+     "until": 430.97499999999997,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 430.97499999999997,
+     "until": 435.989,
+     "frame": [
+      0.5,
+      0.5,
+      1.4
+     ]
+    }
+   ]
   },
   {
    "id": "S27",
    "from": 435.989,
    "until": 440.73599999999993,
-   "line": 61
+   "line": 61,
+   "cuts": [
+    {
+     "from": 435.989,
+     "until": 440.73599999999993,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    }
+   ]
   },
   {
    "id": "S28",
    "from": 440.73599999999993,
    "until": 469.39399999999995,
-   "line": 63
+   "line": 63,
+   "cuts": [
+    {
+     "from": 440.73599999999993,
+     "until": 447.2659999999999,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 447.2659999999999,
+     "until": 455.8039999999999,
+     "frame": [
+      0.48,
+      0.62,
+      1.5
+     ]
+    },
+    {
+     "from": 455.8039999999999,
+     "until": 469.39399999999995,
+     "frame": [
+      0.5,
+      0.5,
+      1.15
+     ]
+    }
+   ]
   },
   {
    "id": "S29",
    "from": 469.39399999999995,
    "until": 475.35799999999995,
-   "line": 67
+   "line": 67,
+   "cuts": [
+    {
+     "from": 469.39399999999995,
+     "until": 475.35799999999995,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    }
+   ]
   },
   {
    "id": "S30",
    "from": 475.35799999999995,
    "until": 511.62899999999996,
-   "line": 68
+   "line": 68,
+   "cuts": [
+    {
+     "from": 475.35799999999995,
+     "until": 482.54699999999997,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 482.54699999999997,
+     "until": 489.575,
+     "frame": [
+      0.47,
+      0.69,
+      1.8
+     ]
+    },
+    {
+     "from": 489.575,
+     "until": 496.871,
+     "frame": [
+      0.53,
+      0.65,
+      2.2
+     ]
+    },
+    {
+     "from": 496.871,
+     "until": 504.328,
+     "frame": [
+      0.84,
+      0.71,
+      2.1
+     ]
+    },
+    {
+     "from": 504.328,
+     "until": 511.62899999999996,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    }
+   ]
   },
   {
    "id": "S31",
    "from": 511.62899999999996,
    "until": 530.662,
-   "line": 73
+   "line": 73,
+   "cuts": [
+    {
+     "from": 511.62899999999996,
+     "until": 517.2749999999999,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    },
+    {
+     "from": 517.2749999999999,
+     "until": 530.662,
+     "frame": [
+      0.49,
+      0.75,
+      1.7
+     ]
+    }
+   ]
   },
   {
    "id": "S32",
    "from": 530.662,
    "until": 535.845,
-   "line": 76
+   "line": 76,
+   "cuts": [
+    {
+     "from": 530.662,
+     "until": 535.845,
+     "frame": [
+      0.5,
+      0.5,
+      1
+     ]
+    }
+   ]
   },
   {
    "id": "S33",
    "from": 535.845,
    "until": 549.903,
-   "line": 77
+   "line": 77,
+   "cuts": [
+    {
+     "from": 535.845,
+     "until": 543.173,
+     "frame": [
+      0.5,
+      0.45,
+      1
+     ]
+    },
+    {
+     "from": 543.173,
+     "until": 549.903,
+     "frame": [
+      0.54,
+      0.41,
+      1.8
+     ]
+    }
+   ]
   }
  ],
  "sfx": [
