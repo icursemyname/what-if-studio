@@ -6,6 +6,9 @@ import { EPISODES } from './episodes';
 import { CastSheet } from './CastSheet';
 import { Animatic, Timeline } from './animatic/Animatic';
 import { Motion } from './animatic/Motion';
+import { CastGold } from './gold/CastGold';
+import { GoldPilot, GoldFilm, pilotLength, filmLength } from './gold/Pilot';
+import { GoldContact } from './gold/Contact';
 import oneTouchGold from './animatic/one-touch-gold.json';
 
 // Animatics of the long episodes (storyboard frames over the voice): Animatic-<slug>. Built by `npm run animatic`.
@@ -46,6 +49,10 @@ export const Root: React.FC = () => {
         />
       ))}
       <Composition id="Cast" component={CastSheet} durationInFrames={1} {...common} />
+      <Composition id="GoldCast" component={CastGold} durationInFrames={1} {...common} />
+      <Composition id="Gold-cold-open" component={GoldPilot} durationInFrames={pilotLength(oneTouchGold as Timeline)} defaultProps={{ timeline: oneTouchGold as Timeline }} {...common} />
+      <Composition id="Gold-episode" component={GoldFilm} durationInFrames={filmLength(oneTouchGold as Timeline)} defaultProps={{ timeline: oneTouchGold as Timeline }} {...common} />
+      <Composition id="Gold-contact" component={GoldContact} durationInFrames={1} defaultProps={{ timeline: oneTouchGold as Timeline, at: 0.6, from: 0, count: 30 }} {...common} />
     </>
   );
 };

@@ -29,7 +29,7 @@ export type Look = {
   shoe: string;
   face: string;
   hair: string;
-  extra?: 'hood' | 'curls' | 'bunches' | 'bob' | 'suit';
+  extra?: 'hood' | 'curls' | 'bunches' | 'bob' | 'suit' | 'headphones';
 };
 export type CastName = 'pip' | 'pipHood' | 'pipInk' | 'mo' | 'sis' | 'mom' | 'suit';
 export const LOOKS: Record<CastName, Look> = {
@@ -432,11 +432,12 @@ export const Hero: React.FC<{ pose: Pose; shadow?: number; rimId?: string; look?
               })()}
             </g>
           ) : null}
-          {L.extra === 'curls' ? (
+          {L.extra === 'curls' || L.extra === 'headphones' ? (
+            // headphones round the neck: the band and two cups (in the accent colour for 'headphones')
             <g transform={`rotate(${pose.tilt})`}>
-              <path d="M -46 -110 Q 0 -86 46 -110" stroke="#E06A5A" strokeWidth={8} fill="none" strokeLinecap="round" />
-              <rect x={-60} y={-126} width={20} height={32} rx={8} fill="#E06A5A" stroke={L.line} strokeWidth={4} />
-              <rect x={40} y={-126} width={20} height={32} rx={8} fill="#E06A5A" stroke={L.line} strokeWidth={4} />
+              <path d="M -46 -110 Q 0 -86 46 -110" stroke={L.extra === 'headphones' ? L.accent : '#E06A5A'} strokeWidth={8} fill="none" strokeLinecap="round" />
+              <rect x={-60} y={-126} width={20} height={32} rx={8} fill={L.extra === 'headphones' ? L.accent : '#E06A5A'} stroke={L.line} strokeWidth={4} />
+              <rect x={40} y={-126} width={20} height={32} rx={8} fill={L.extra === 'headphones' ? L.accent : '#E06A5A'} stroke={L.line} strokeWidth={4} />
             </g>
           ) : null}
           {head}
